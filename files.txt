@@ -1,0 +1,1815 @@
+dialogues.rpy
+dialogues.rpyc
+dialogues_s1_i0.rpy
+dialogues_s1_i0.rpyc
+dialogues_s1_i1.rpy
+dialogues_s1_i1.rpyc
+dialogues_s1_i2.rpy
+dialogues_s1_i2.rpyc
+dialogues_s1_i3.rpy
+dialogues_s1_i3.rpyc
+dialogues_s2_i0.rpy
+dialogues_s2_i0.rpyc
+dialogues_s2_i1.rpy
+dialogues_s2_i1.rpyc
+dialogues_s2_i2.rpy
+dialogues_s2_i2.rpyc
+dialogues_s3_i0.rpy
+dialogues_s3_i0.rpyc
+dialogues_s3_i1.rpy
+dialogues_s3_i1.rpyc
+dialogues_s3_i2.rpy
+dialogues_s3_i2.rpyc
+dialogues_s4_i0.rpy
+dialogues_s4_i0.rpyc
+dialogues_s4_i1.rpy
+dialogues_s4_i1.rpyc
+dialogues_s4_i2.rpy
+dialogues_s4_i2.rpyc
+feedback.rpy
+feedback.rpyc
+gui.rpy
+gui.rpy.1.bak
+gui.rpy.2.bak
+gui.rpy.3.bak
+gui.rpy.4.bak
+gui.rpyc
+menus.rpy
+menus.rpyc
+options.rpy
+options.rpyc
+platform.rpy
+platform.rpyc
+rooms.rpy
+rooms.rpyc
+scenes.rpy
+scenes.rpyc
+screens.rpy
+screens.rpy.1.bak
+screens.rpy.2.bak
+screens.rpy.3.bak
+screens.rpy.4.bak
+screens.rpyc
+script.rpy
+script.rpy.bak
+script.rpyc
+session_0.rpy
+session_0.rpyc
+session_1.rpy
+session_1.rpyc
+session_2.rpy
+session_2.rpyc
+session_3.rpy
+session_3.rpyc
+session_4.rpy
+session_4.rpyc
+tasks.rpy
+tasks.rpyc
+tracefile_s1.txt
+audio\bell.mp3
+audio\birds og.mp3
+audio\birds_1.mp3
+audio\birds_2.mp3
+audio\birds_3.mp3
+audio\birds_4.mp3
+audio\birds_5.mp3
+audio\birds_6.mp3
+audio\chalk og.mp3
+audio\chalk.mp3
+audio\class1.wav
+audio\class2.wav
+audio\class3.wav
+audio\class4.wav
+audio\classroom.wav
+audio\coins.mp3
+audio\door_1.mp3
+audio\door_2.mp3
+audio\door_3.mp3
+audio\folder.mp3
+audio\keyboard og.mp3
+audio\keyboard.mp3
+audio\pages.mp3
+audio\ping.wav
+audio\printer.mp3
+audio\steps.wav
+audio\steps_1.mp3
+audio\steps_1a.mp3
+audio\steps_2.mp3
+audio\steps_2a.mp3
+audio\steps_3.mp3
+audio\steps_3a.mp3
+audio\writing og.mp3
+audio\writing.mp3
+cache\bytecode.rpyb
+cache\pyanalysis.rpyb
+cache\screens.rpyb
+cache\shaders.txt
+gui\frame.png
+gui\frame.png.1.bak
+gui\frame.png.2.bak
+gui\frame.png.3.bak
+gui\frame.png.4.bak
+gui\game_menu.png
+gui\main_menu.png
+gui\namebox.png
+gui\namebox.png.1.bak
+gui\namebox.png.2.bak
+gui\namebox.png.3.bak
+gui\namebox.png.4.bak
+gui\notify.png
+gui\notify.png.1.bak
+gui\notify.png.2.bak
+gui\notify.png.3.bak
+gui\notify.png.4.bak
+gui\nvl.png
+gui\nvl.png.1.bak
+gui\nvl.png.2.bak
+gui\nvl.png.3.bak
+gui\nvl.png.4.bak
+gui\skip.png
+gui\skip.png.1.bak
+gui\skip.png.2.bak
+gui\skip.png.3.bak
+gui\skip.png.4.bak
+gui\textbox.png
+gui\textbox.png.1.bak
+gui\textbox.png.2.bak
+gui\textbox.png.3.bak
+gui\textbox.png.4.bak
+gui\window_icon.png
+gui\bar\bottom.png
+gui\bar\bottom.png.1.bak
+gui\bar\bottom.png.2.bak
+gui\bar\bottom.png.3.bak
+gui\bar\bottom.png.4.bak
+gui\bar\left.png
+gui\bar\left.png.1.bak
+gui\bar\left.png.2.bak
+gui\bar\left.png.3.bak
+gui\bar\left.png.4.bak
+gui\bar\right.png
+gui\bar\right.png.1.bak
+gui\bar\right.png.2.bak
+gui\bar\right.png.3.bak
+gui\bar\right.png.4.bak
+gui\bar\top.png
+gui\bar\top.png.1.bak
+gui\bar\top.png.2.bak
+gui\bar\top.png.3.bak
+gui\bar\top.png.4.bak
+gui\button\check_foreground.png
+gui\button\check_foreground.png.1.bak
+gui\button\check_foreground.png.2.bak
+gui\button\check_foreground.png.3.bak
+gui\button\check_foreground.png.4.bak
+gui\button\check_selected_foreground.png
+gui\button\check_selected_foreground.png.1.bak
+gui\button\check_selected_foreground.png.2.bak
+gui\button\check_selected_foreground.png.3.bak
+gui\button\check_selected_foreground.png.4.bak
+gui\button\choice_hover_background.png
+gui\button\choice_hover_background.png.1.bak
+gui\button\choice_hover_background.png.2.bak
+gui\button\choice_hover_background.png.3.bak
+gui\button\choice_hover_background.png.4.bak
+gui\button\choice_idle_background.png
+gui\button\choice_idle_background.png.1.bak
+gui\button\choice_idle_background.png.2.bak
+gui\button\choice_idle_background.png.3.bak
+gui\button\choice_idle_background.png.4.bak
+gui\button\hover_background.png
+gui\button\hover_background.png.1.bak
+gui\button\hover_background.png.2.bak
+gui\button\hover_background.png.3.bak
+gui\button\hover_background.png.4.bak
+gui\button\idle_background.png
+gui\button\idle_background.png.1.bak
+gui\button\idle_background.png.2.bak
+gui\button\idle_background.png.3.bak
+gui\button\idle_background.png.4.bak
+gui\button\quick_hover_background.png
+gui\button\quick_hover_background.png.1.bak
+gui\button\quick_hover_background.png.2.bak
+gui\button\quick_hover_background.png.3.bak
+gui\button\quick_hover_background.png.4.bak
+gui\button\quick_idle_background.png
+gui\button\quick_idle_background.png.1.bak
+gui\button\quick_idle_background.png.2.bak
+gui\button\quick_idle_background.png.3.bak
+gui\button\quick_idle_background.png.4.bak
+gui\button\radio_foreground.png
+gui\button\radio_foreground.png.1.bak
+gui\button\radio_foreground.png.2.bak
+gui\button\radio_foreground.png.3.bak
+gui\button\radio_foreground.png.4.bak
+gui\button\radio_selected_foreground.png
+gui\button\radio_selected_foreground.png.1.bak
+gui\button\radio_selected_foreground.png.2.bak
+gui\button\radio_selected_foreground.png.3.bak
+gui\button\radio_selected_foreground.png.4.bak
+gui\button\slot_hover_background.png
+gui\button\slot_hover_background.png.1.bak
+gui\button\slot_hover_background.png.2.bak
+gui\button\slot_hover_background.png.3.bak
+gui\button\slot_hover_background.png.4.bak
+gui\button\slot_idle_background.png
+gui\button\slot_idle_background.png.1.bak
+gui\button\slot_idle_background.png.2.bak
+gui\button\slot_idle_background.png.3.bak
+gui\button\slot_idle_background.png.4.bak
+gui\overlay\confirm.png
+gui\overlay\confirm.png.1.bak
+gui\overlay\confirm.png.2.bak
+gui\overlay\confirm.png.3.bak
+gui\overlay\confirm.png.4.bak
+gui\overlay\game_menu.png
+gui\overlay\game_menu.png.1.bak
+gui\overlay\game_menu.png.2.bak
+gui\overlay\game_menu.png.3.bak
+gui\overlay\game_menu.png.4.bak
+gui\overlay\main_menu.png
+gui\overlay\main_menu.png.1.bak
+gui\overlay\main_menu.png.2.bak
+gui\overlay\main_menu.png.3.bak
+gui\overlay\main_menu.png.4.bak
+gui\phone\nvl.png
+gui\phone\nvl.png.1.bak
+gui\phone\nvl.png.2.bak
+gui\phone\nvl.png.3.bak
+gui\phone\nvl.png.4.bak
+gui\phone\textbox.png
+gui\phone\textbox.png.1.bak
+gui\phone\textbox.png.2.bak
+gui\phone\textbox.png.3.bak
+gui\phone\textbox.png.4.bak
+gui\phone\bar\bottom.png
+gui\phone\bar\bottom.png.1.bak
+gui\phone\bar\bottom.png.2.bak
+gui\phone\bar\bottom.png.3.bak
+gui\phone\bar\bottom.png.4.bak
+gui\phone\bar\left.png
+gui\phone\bar\left.png.1.bak
+gui\phone\bar\left.png.2.bak
+gui\phone\bar\left.png.3.bak
+gui\phone\bar\left.png.4.bak
+gui\phone\bar\right.png
+gui\phone\bar\right.png.1.bak
+gui\phone\bar\right.png.2.bak
+gui\phone\bar\right.png.3.bak
+gui\phone\bar\right.png.4.bak
+gui\phone\bar\top.png
+gui\phone\bar\top.png.1.bak
+gui\phone\bar\top.png.2.bak
+gui\phone\bar\top.png.3.bak
+gui\phone\bar\top.png.4.bak
+gui\phone\button\check_foreground.png
+gui\phone\button\check_foreground.png.1.bak
+gui\phone\button\check_foreground.png.2.bak
+gui\phone\button\check_foreground.png.3.bak
+gui\phone\button\check_foreground.png.4.bak
+gui\phone\button\check_selected_foreground.png
+gui\phone\button\check_selected_foreground.png.1.bak
+gui\phone\button\check_selected_foreground.png.2.bak
+gui\phone\button\check_selected_foreground.png.3.bak
+gui\phone\button\check_selected_foreground.png.4.bak
+gui\phone\button\choice_hover_background.png
+gui\phone\button\choice_hover_background.png.1.bak
+gui\phone\button\choice_hover_background.png.2.bak
+gui\phone\button\choice_hover_background.png.3.bak
+gui\phone\button\choice_hover_background.png.4.bak
+gui\phone\button\choice_idle_background.png
+gui\phone\button\choice_idle_background.png.1.bak
+gui\phone\button\choice_idle_background.png.2.bak
+gui\phone\button\choice_idle_background.png.3.bak
+gui\phone\button\choice_idle_background.png.4.bak
+gui\phone\button\hover_background.png
+gui\phone\button\hover_background.png.1.bak
+gui\phone\button\hover_background.png.2.bak
+gui\phone\button\hover_background.png.3.bak
+gui\phone\button\hover_background.png.4.bak
+gui\phone\button\idle_background.png
+gui\phone\button\idle_background.png.1.bak
+gui\phone\button\idle_background.png.2.bak
+gui\phone\button\idle_background.png.3.bak
+gui\phone\button\idle_background.png.4.bak
+gui\phone\button\radio_foreground.png
+gui\phone\button\radio_foreground.png.1.bak
+gui\phone\button\radio_foreground.png.2.bak
+gui\phone\button\radio_foreground.png.3.bak
+gui\phone\button\radio_foreground.png.4.bak
+gui\phone\button\radio_selected_foreground.png
+gui\phone\button\radio_selected_foreground.png.1.bak
+gui\phone\button\radio_selected_foreground.png.2.bak
+gui\phone\button\radio_selected_foreground.png.3.bak
+gui\phone\button\radio_selected_foreground.png.4.bak
+gui\phone\button\slot_hover_background.png
+gui\phone\button\slot_hover_background.png.1.bak
+gui\phone\button\slot_hover_background.png.2.bak
+gui\phone\button\slot_hover_background.png.3.bak
+gui\phone\button\slot_hover_background.png.4.bak
+gui\phone\button\slot_idle_background.png
+gui\phone\button\slot_idle_background.png.1.bak
+gui\phone\button\slot_idle_background.png.2.bak
+gui\phone\button\slot_idle_background.png.3.bak
+gui\phone\button\slot_idle_background.png.4.bak
+gui\phone\overlay\game_menu.png
+gui\phone\overlay\game_menu.png.1.bak
+gui\phone\overlay\game_menu.png.2.bak
+gui\phone\overlay\game_menu.png.3.bak
+gui\phone\overlay\game_menu.png.4.bak
+gui\phone\overlay\main_menu.png
+gui\phone\overlay\main_menu.png.1.bak
+gui\phone\overlay\main_menu.png.2.bak
+gui\phone\overlay\main_menu.png.3.bak
+gui\phone\overlay\main_menu.png.4.bak
+gui\phone\scrollbar\horizontal_hover_bar.png
+gui\phone\scrollbar\horizontal_hover_bar.png.1.bak
+gui\phone\scrollbar\horizontal_hover_bar.png.2.bak
+gui\phone\scrollbar\horizontal_hover_bar.png.3.bak
+gui\phone\scrollbar\horizontal_hover_bar.png.4.bak
+gui\phone\scrollbar\horizontal_hover_thumb.png
+gui\phone\scrollbar\horizontal_hover_thumb.png.1.bak
+gui\phone\scrollbar\horizontal_hover_thumb.png.2.bak
+gui\phone\scrollbar\horizontal_hover_thumb.png.3.bak
+gui\phone\scrollbar\horizontal_hover_thumb.png.4.bak
+gui\phone\scrollbar\horizontal_idle_bar.png
+gui\phone\scrollbar\horizontal_idle_bar.png.1.bak
+gui\phone\scrollbar\horizontal_idle_bar.png.2.bak
+gui\phone\scrollbar\horizontal_idle_bar.png.3.bak
+gui\phone\scrollbar\horizontal_idle_bar.png.4.bak
+gui\phone\scrollbar\horizontal_idle_thumb.png
+gui\phone\scrollbar\horizontal_idle_thumb.png.1.bak
+gui\phone\scrollbar\horizontal_idle_thumb.png.2.bak
+gui\phone\scrollbar\horizontal_idle_thumb.png.3.bak
+gui\phone\scrollbar\horizontal_idle_thumb.png.4.bak
+gui\phone\scrollbar\vertical_hover_bar.png
+gui\phone\scrollbar\vertical_hover_bar.png.1.bak
+gui\phone\scrollbar\vertical_hover_bar.png.2.bak
+gui\phone\scrollbar\vertical_hover_bar.png.3.bak
+gui\phone\scrollbar\vertical_hover_bar.png.4.bak
+gui\phone\scrollbar\vertical_hover_thumb.png
+gui\phone\scrollbar\vertical_hover_thumb.png.1.bak
+gui\phone\scrollbar\vertical_hover_thumb.png.2.bak
+gui\phone\scrollbar\vertical_hover_thumb.png.3.bak
+gui\phone\scrollbar\vertical_hover_thumb.png.4.bak
+gui\phone\scrollbar\vertical_idle_bar.png
+gui\phone\scrollbar\vertical_idle_bar.png.1.bak
+gui\phone\scrollbar\vertical_idle_bar.png.2.bak
+gui\phone\scrollbar\vertical_idle_bar.png.3.bak
+gui\phone\scrollbar\vertical_idle_bar.png.4.bak
+gui\phone\scrollbar\vertical_idle_thumb.png
+gui\phone\scrollbar\vertical_idle_thumb.png.1.bak
+gui\phone\scrollbar\vertical_idle_thumb.png.2.bak
+gui\phone\scrollbar\vertical_idle_thumb.png.3.bak
+gui\phone\scrollbar\vertical_idle_thumb.png.4.bak
+gui\phone\slider\horizontal_hover_bar.png
+gui\phone\slider\horizontal_hover_bar.png.1.bak
+gui\phone\slider\horizontal_hover_bar.png.2.bak
+gui\phone\slider\horizontal_hover_bar.png.3.bak
+gui\phone\slider\horizontal_hover_bar.png.4.bak
+gui\phone\slider\horizontal_hover_thumb.png
+gui\phone\slider\horizontal_hover_thumb.png.1.bak
+gui\phone\slider\horizontal_hover_thumb.png.2.bak
+gui\phone\slider\horizontal_hover_thumb.png.3.bak
+gui\phone\slider\horizontal_hover_thumb.png.4.bak
+gui\phone\slider\horizontal_idle_bar.png
+gui\phone\slider\horizontal_idle_bar.png.1.bak
+gui\phone\slider\horizontal_idle_bar.png.2.bak
+gui\phone\slider\horizontal_idle_bar.png.3.bak
+gui\phone\slider\horizontal_idle_bar.png.4.bak
+gui\phone\slider\horizontal_idle_thumb.png
+gui\phone\slider\horizontal_idle_thumb.png.1.bak
+gui\phone\slider\horizontal_idle_thumb.png.2.bak
+gui\phone\slider\horizontal_idle_thumb.png.3.bak
+gui\phone\slider\horizontal_idle_thumb.png.4.bak
+gui\phone\slider\vertical_hover_bar.png
+gui\phone\slider\vertical_hover_bar.png.1.bak
+gui\phone\slider\vertical_hover_bar.png.2.bak
+gui\phone\slider\vertical_hover_bar.png.3.bak
+gui\phone\slider\vertical_hover_bar.png.4.bak
+gui\phone\slider\vertical_hover_thumb.png
+gui\phone\slider\vertical_hover_thumb.png.1.bak
+gui\phone\slider\vertical_hover_thumb.png.2.bak
+gui\phone\slider\vertical_hover_thumb.png.3.bak
+gui\phone\slider\vertical_hover_thumb.png.4.bak
+gui\phone\slider\vertical_idle_bar.png
+gui\phone\slider\vertical_idle_bar.png.1.bak
+gui\phone\slider\vertical_idle_bar.png.2.bak
+gui\phone\slider\vertical_idle_bar.png.3.bak
+gui\phone\slider\vertical_idle_bar.png.4.bak
+gui\phone\slider\vertical_idle_thumb.png
+gui\phone\slider\vertical_idle_thumb.png.1.bak
+gui\phone\slider\vertical_idle_thumb.png.2.bak
+gui\phone\slider\vertical_idle_thumb.png.3.bak
+gui\phone\slider\vertical_idle_thumb.png.4.bak
+gui\scrollbar\horizontal_hover_bar.png
+gui\scrollbar\horizontal_hover_bar.png.1.bak
+gui\scrollbar\horizontal_hover_bar.png.2.bak
+gui\scrollbar\horizontal_hover_bar.png.3.bak
+gui\scrollbar\horizontal_hover_bar.png.4.bak
+gui\scrollbar\horizontal_hover_thumb.png
+gui\scrollbar\horizontal_hover_thumb.png.1.bak
+gui\scrollbar\horizontal_hover_thumb.png.2.bak
+gui\scrollbar\horizontal_hover_thumb.png.3.bak
+gui\scrollbar\horizontal_hover_thumb.png.4.bak
+gui\scrollbar\horizontal_idle_bar.png
+gui\scrollbar\horizontal_idle_bar.png.1.bak
+gui\scrollbar\horizontal_idle_bar.png.2.bak
+gui\scrollbar\horizontal_idle_bar.png.3.bak
+gui\scrollbar\horizontal_idle_bar.png.4.bak
+gui\scrollbar\horizontal_idle_thumb.png
+gui\scrollbar\horizontal_idle_thumb.png.1.bak
+gui\scrollbar\horizontal_idle_thumb.png.2.bak
+gui\scrollbar\horizontal_idle_thumb.png.3.bak
+gui\scrollbar\horizontal_idle_thumb.png.4.bak
+gui\scrollbar\vertical_hover_bar.png
+gui\scrollbar\vertical_hover_bar.png.1.bak
+gui\scrollbar\vertical_hover_bar.png.2.bak
+gui\scrollbar\vertical_hover_bar.png.3.bak
+gui\scrollbar\vertical_hover_bar.png.4.bak
+gui\scrollbar\vertical_hover_thumb.png
+gui\scrollbar\vertical_hover_thumb.png.1.bak
+gui\scrollbar\vertical_hover_thumb.png.2.bak
+gui\scrollbar\vertical_hover_thumb.png.3.bak
+gui\scrollbar\vertical_hover_thumb.png.4.bak
+gui\scrollbar\vertical_idle_bar.png
+gui\scrollbar\vertical_idle_bar.png.1.bak
+gui\scrollbar\vertical_idle_bar.png.2.bak
+gui\scrollbar\vertical_idle_bar.png.3.bak
+gui\scrollbar\vertical_idle_bar.png.4.bak
+gui\scrollbar\vertical_idle_thumb.png
+gui\scrollbar\vertical_idle_thumb.png.1.bak
+gui\scrollbar\vertical_idle_thumb.png.2.bak
+gui\scrollbar\vertical_idle_thumb.png.3.bak
+gui\scrollbar\vertical_idle_thumb.png.4.bak
+gui\slider\horizontal_hover_bar.png
+gui\slider\horizontal_hover_bar.png.1.bak
+gui\slider\horizontal_hover_bar.png.2.bak
+gui\slider\horizontal_hover_bar.png.3.bak
+gui\slider\horizontal_hover_bar.png.4.bak
+gui\slider\horizontal_hover_thumb.png
+gui\slider\horizontal_hover_thumb.png.1.bak
+gui\slider\horizontal_hover_thumb.png.2.bak
+gui\slider\horizontal_hover_thumb.png.3.bak
+gui\slider\horizontal_hover_thumb.png.4.bak
+gui\slider\horizontal_idle_bar.png
+gui\slider\horizontal_idle_bar.png.1.bak
+gui\slider\horizontal_idle_bar.png.2.bak
+gui\slider\horizontal_idle_bar.png.3.bak
+gui\slider\horizontal_idle_bar.png.4.bak
+gui\slider\horizontal_idle_thumb.png
+gui\slider\horizontal_idle_thumb.png.1.bak
+gui\slider\horizontal_idle_thumb.png.2.bak
+gui\slider\horizontal_idle_thumb.png.3.bak
+gui\slider\horizontal_idle_thumb.png.4.bak
+gui\slider\vertical_hover_bar.png
+gui\slider\vertical_hover_bar.png.1.bak
+gui\slider\vertical_hover_bar.png.2.bak
+gui\slider\vertical_hover_bar.png.3.bak
+gui\slider\vertical_hover_bar.png.4.bak
+gui\slider\vertical_hover_thumb.png
+gui\slider\vertical_hover_thumb.png.1.bak
+gui\slider\vertical_hover_thumb.png.2.bak
+gui\slider\vertical_hover_thumb.png.3.bak
+gui\slider\vertical_hover_thumb.png.4.bak
+gui\slider\vertical_idle_bar.png
+gui\slider\vertical_idle_bar.png.1.bak
+gui\slider\vertical_idle_bar.png.2.bak
+gui\slider\vertical_idle_bar.png.3.bak
+gui\slider\vertical_idle_bar.png.4.bak
+gui\slider\vertical_idle_thumb.png
+gui\slider\vertical_idle_thumb.png.1.bak
+gui\slider\vertical_idle_thumb.png.2.bak
+gui\slider\vertical_idle_thumb.png.3.bak
+gui\slider\vertical_idle_thumb.png.4.bak
+images\Mapa jogo 2.png
+images\Mapa jogo.png
+images\aluna.png
+images\alunafull.png
+images\aluno.png
+images\alunos.png
+images\alunos1_hover.png
+images\alunos1_idle.png
+images\alunos2_hover.png
+images\alunos2_idle.png
+images\alunos3_hover.png
+images\alunos3_idle.png
+images\arquivador.png
+images\arquivador_hover.png
+images\arquivador_idle.png
+images\arrow_hover.png
+images\arrow_idle.png
+images\arrow_idle_blue.png
+images\arrow_idle_last.png
+images\arrow_idle_lastBACKUP.png
+images\auxiliar.png
+images\auxiliarfull.png
+images\bibliotecaria.png
+images\bibliotecaria1.png
+images\bibliotecaria2.png
+images\bibliotecaria3.png
+images\bibliotecaria_face.png
+images\black_screen.jpg
+images\cb_bg.jpg
+images\cb_post.png
+images\cb_post_img.png
+images\characters.pxz
+images\colega.png
+images\colega2.png
+images\colegafull.png
+images\coordciclo.png
+images\coordciclo2.png
+images\coordenador.png
+images\empty_screen.png
+images\exit_hover.png
+images\exit_idle.png
+images\exit_idle_blue.png
+images\exit_idle_last.png
+images\icon.png
+images\ingroup.png
+images\intervalo.jpg
+images\intervalo_1.jpg
+images\intervalo_2.jpg
+images\intervalo_3.jpg
+images\lixo.png
+images\lixo_hover.png
+images\lixo_idle.png
+images\menulist_hover.png
+images\menulist_idle.png
+images\no_bg.png
+images\outgroup.png
+images\periodo_aula.png
+images\player.png
+images\pos_aula.jpg
+images\pre_aula.jpg
+images\prof1.png
+images\prof1h.png
+images\prof2.png
+images\prof2h.png
+images\prof3.png
+images\prof3h.png
+images\prof4.png
+images\prof4h.png
+images\prof5.png
+images\prof5h.png
+images\prof6.png
+images\prof6h.png
+images\prof7.png
+images\prof7h.png
+images\prof8.png
+images\prof8h.png
+images\prof_hover.png
+images\prof_idle.png
+images\profjoao_hover.png
+images\profjoao_idle.png
+images\profs.png
+images\profs.webp
+images\progress.png
+images\quadro.png
+images\quadro_hd.png
+images\quadro_hover.png
+images\quadro_idle.png
+images\quadro_og.png
+images\reuniao.png
+images\spot.png
+images\tarefas.pxz
+images\teens1+.png
+images\teens2+.png
+images\teens3+.png
+images\teens3.1.jpg
+images\teens4+.png
+images\teens5+.png
+images\teens5.1.png
+images\teens6+.png
+images\transparent.png
+images\x_hover.png
+images\x_idle.png
+images\avatars\Personagens.docx
+images\avatars\a avatar bg.png
+images\avatars\a avatar mask.png
+images\avatars\abelpolido.png
+images\avatars\abelpolido_avatar.png
+images\avatars\carmensemedo.png
+images\avatars\carmensemedo_avatar.png
+images\avatars\estrelanunes.png
+images\avatars\estrelanunes_avatar.png
+images\avatars\helderalmeida.png
+images\avatars\helderalmeida_avatar.png
+images\avatars\isabeltorres.png
+images\avatars\isabeltorres_avatar.png
+images\avatars\jorgeamaral.png
+images\avatars\jorgeamaral_avatar.png
+images\avatars\manuelaleitao.png
+images\avatars\manuelaleitao_avatar.png
+images\avatars\nandosapina.png
+images\avatars\nandosapina_avatar.png
+images\avatars\patriciaisidoro.png
+images\avatars\patriciaisidoro_avatar.png
+images\avatars\ruibento.png
+images\avatars\ruibento_avatar.png
+images\avatars\samuelandrade.png
+images\avatars\samuelandrade_avatar.png
+images\avatars\tatianadelgado.png
+images\avatars\tatianadelgado_avatar.png
+images\avatars\antigos\abel1anger2.png
+images\avatars\antigos\abel5sadness2.png
+images\avatars\antigos\abel_angry.png
+images\avatars\antigos\abel_disgust.png
+images\avatars\antigos\abel_fear.png
+images\avatars\antigos\abel_happy.png
+images\avatars\antigos\abel_laugh.png
+images\avatars\antigos\abel_normal.png
+images\avatars\antigos\abel_sad.png
+images\avatars\antigos\abel_surprise.png
+images\avatars\antigos\carmen1anger1.png
+images\avatars\antigos\carmen3surprise.png
+images\avatars\antigos\carmen5sadness1.png
+images\avatars\antigos\carmen6fear.png
+images\avatars\antigos\carmen_angry.png
+images\avatars\antigos\carmen_disgust.png
+images\avatars\antigos\carmen_happy.png
+images\avatars\antigos\carmen_laugh.png
+images\avatars\antigos\carmen_normal.png
+images\avatars\antigos\carmen_sad.png
+images\avatars\antigos\estrela_angry.png
+images\avatars\antigos\estrela_disgust.png
+images\avatars\antigos\estrela_fear.png
+images\avatars\antigos\estrela_happy.png
+images\avatars\antigos\estrela_normal.png
+images\avatars\antigos\estrela_sad.png
+images\avatars\antigos\estrela_surprise.png
+images\avatars\antigos\helder_angry.png
+images\avatars\antigos\helder_disgust.png
+images\avatars\antigos\helder_fear.png
+images\avatars\antigos\helder_happy.png
+images\avatars\antigos\helder_laugh.png
+images\avatars\antigos\helder_normal.png
+images\avatars\antigos\helder_sad.png
+images\avatars\antigos\helder_surprise.png
+images\avatars\antigos\isabel_angry.png
+images\avatars\antigos\isabel_disgust.png
+images\avatars\antigos\isabel_happy.png
+images\avatars\antigos\isabel_laugh.png
+images\avatars\antigos\isabel_normal.png
+images\avatars\antigos\isabel_sad.png
+images\avatars\antigos\jorge_angry.png
+images\avatars\antigos\jorge_happy.png
+images\avatars\antigos\jorge_laugh.png
+images\avatars\antigos\jorge_normal.png
+images\avatars\antigos\jorge_sad.png
+images\avatars\antigos\manuela_angry.png
+images\avatars\antigos\manuela_happy.png
+images\avatars\antigos\manuela_normal.png
+images\avatars\antigos\manuela_sad.png
+images\avatars\antigos\nando_angry.png
+images\avatars\antigos\nando_annoyed.png
+images\avatars\antigos\nando_happy.png
+images\avatars\antigos\nando_laugh.png
+images\avatars\antigos\nando_mean.png
+images\avatars\antigos\nando_normal.png
+images\avatars\antigos\nando_sad.png
+images\avatars\antigos\patricia_angry.png
+images\avatars\antigos\patricia_annoyed.png
+images\avatars\antigos\patricia_disgust.png
+images\avatars\antigos\patricia_happy.png
+images\avatars\antigos\patricia_normal.png
+images\avatars\antigos\patricia_sad.png
+images\avatars\antigos\rui_angry.png
+images\avatars\antigos\rui_happy.png
+images\avatars\antigos\rui_laugh.png
+images\avatars\antigos\rui_normal.png
+images\avatars\antigos\rui_sad.png
+images\avatars\antigos\samuel_angry.png
+images\avatars\antigos\samuel_happy.png
+images\avatars\antigos\samuel_laugh.png
+images\avatars\antigos\samuel_normal.png
+images\avatars\antigos\samuel_sad.png
+images\avatars\antigos\tatiana_angry.png
+images\avatars\antigos\tatiana_cry.png
+images\avatars\antigos\tatiana_happy.png
+images\avatars\antigos\tatiana_normal.png
+images\avatars\antigos\tatiana_sad.png
+images\avatars\emotions\aaa.jpg
+images\avatars\emotions\aaa.png
+images\avatars\emotions\aab.png
+images\avatars\emotions\aac.png
+images\avatars\emotions\aam.png
+images\avatars\emotions\aan.png
+images\avatars\emotions\abel_angry.png
+images\avatars\emotions\abel_disgust.png
+images\avatars\emotions\abel_happy.png
+images\avatars\emotions\abel_laugh.png
+images\avatars\emotions\abel_normal.png
+images\avatars\emotions\abel_sad.png
+images\avatars\emotions\abel_surprise.png
+images\avatars\emotions\carmen_angry.png
+images\avatars\emotions\carmen_annoyed.png
+images\avatars\emotions\carmen_cry.png
+images\avatars\emotions\carmen_disgust.png
+images\avatars\emotions\carmen_happy.png
+images\avatars\emotions\carmen_laugh.png
+images\avatars\emotions\carmen_normal.png
+images\avatars\emotions\carmen_sad.png
+images\avatars\emotions\carmen_surprise.png
+images\avatars\emotions\estrela_angry.png
+images\avatars\emotions\estrela_annoyed.png
+images\avatars\emotions\estrela_cry.png
+images\avatars\emotions\estrela_disgust.png
+images\avatars\emotions\estrela_happy.png
+images\avatars\emotions\estrela_laugh.png
+images\avatars\emotions\estrela_normal.png
+images\avatars\emotions\estrela_sad.png
+images\avatars\emotions\estrela_surprise.png
+images\avatars\emotions\helder_angry.png
+images\avatars\emotions\helder_disgust.png
+images\avatars\emotions\helder_fear.png
+images\avatars\emotions\helder_happy.png
+images\avatars\emotions\helder_laugh.png
+images\avatars\emotions\helder_normal.png
+images\avatars\emotions\helder_sad.png
+images\avatars\emotions\helder_surprise.png
+images\avatars\emotions\isabel_angry.png
+images\avatars\emotions\isabel_disgust.png
+images\avatars\emotions\isabel_happy.png
+images\avatars\emotions\isabel_laugh.png
+images\avatars\emotions\isabel_normal.png
+images\avatars\emotions\isabel_sad.png
+images\avatars\emotions\jorge_angry.png
+images\avatars\emotions\jorge_annoyed.png
+images\avatars\emotions\jorge_cry.png
+images\avatars\emotions\jorge_disgust.png
+images\avatars\emotions\jorge_happy.png
+images\avatars\emotions\jorge_laugh.png
+images\avatars\emotions\jorge_normal.png
+images\avatars\emotions\jorge_sad.png
+images\avatars\emotions\jorge_surprise.png
+images\avatars\emotions\manuela_angry.png
+images\avatars\emotions\manuela_annoyed.png
+images\avatars\emotions\manuela_cry.png
+images\avatars\emotions\manuela_disgust.png
+images\avatars\emotions\manuela_happy.png
+images\avatars\emotions\manuela_laugh.png
+images\avatars\emotions\manuela_normal.png
+images\avatars\emotions\manuela_sad.png
+images\avatars\emotions\manuela_surprise.png
+images\avatars\emotions\nando_angry.png
+images\avatars\emotions\nando_annoyed.png
+images\avatars\emotions\nando_background.png
+images\avatars\emotions\nando_happy.png
+images\avatars\emotions\nando_laugh.png
+images\avatars\emotions\nando_mean.png
+images\avatars\emotions\nando_normal.png
+images\avatars\emotions\nando_sad.png
+images\avatars\emotions\patricia_angry.png
+images\avatars\emotions\patricia_annoyed.png
+images\avatars\emotions\patricia_cry.png
+images\avatars\emotions\patricia_disgust.png
+images\avatars\emotions\patricia_happy.png
+images\avatars\emotions\patricia_laugh.png
+images\avatars\emotions\patricia_normal.png
+images\avatars\emotions\patricia_sad.png
+images\avatars\emotions\patricia_surprise.png
+images\avatars\emotions\rui_angry.png
+images\avatars\emotions\rui_annoyed.png
+images\avatars\emotions\rui_happy.png
+images\avatars\emotions\rui_laugh.png
+images\avatars\emotions\rui_normal.png
+images\avatars\emotions\rui_sad.png
+images\avatars\emotions\samuel_angry.png
+images\avatars\emotions\samuel_happy.png
+images\avatars\emotions\samuel_happy2.png
+images\avatars\emotions\samuel_laugh.png
+images\avatars\emotions\samuel_normal.png
+images\avatars\emotions\samuel_sad.png
+images\avatars\emotions\tatiana_angry.png
+images\avatars\emotions\tatiana_annoyed.png
+images\avatars\emotions\tatiana_cry.png
+images\avatars\emotions\tatiana_disgust.png
+images\avatars\emotions\tatiana_happy.png
+images\avatars\emotions\tatiana_laugh.png
+images\avatars\emotions\tatiana_normal.png
+images\avatars\emotions\tatiana_sad.png
+images\avatars\emotions\tatiana_surprise.png
+images\avatars\menus\lista_personagens original.png
+images\avatars\menus\lista_personagens.png
+images\avatars\menus\lista_personagens_a_hover.png
+images\avatars\menus\lista_personagens_a_idle.png
+images\avatars\menus\lista_personagens_c_hover.png
+images\avatars\menus\lista_personagens_c_idle.png
+images\avatars\menus\lista_personagens_e_hover.png
+images\avatars\menus\lista_personagens_e_idle.png
+images\avatars\menus\lista_personagens_h_hover.png
+images\avatars\menus\lista_personagens_h_idle.png
+images\avatars\menus\lista_personagens_hover.png
+images\avatars\menus\lista_personagens_i_hover.png
+images\avatars\menus\lista_personagens_i_idle.png
+images\avatars\menus\lista_personagens_idle.png
+images\avatars\menus\lista_personagens_j_hover.png
+images\avatars\menus\lista_personagens_j_idle.png
+images\avatars\menus\lista_personagens_m_hover.png
+images\avatars\menus\lista_personagens_m_idle.png
+images\avatars\menus\lista_personagens_n_hover.png
+images\avatars\menus\lista_personagens_n_idle.png
+images\avatars\menus\lista_personagens_p_hover.png
+images\avatars\menus\lista_personagens_p_idle.png
+images\avatars\menus\lista_personagens_r_hover.png
+images\avatars\menus\lista_personagens_r_idle.png
+images\avatars\menus\lista_personagens_s_hover.png
+images\avatars\menus\lista_personagens_s_idle.png
+images\avatars\menus\lista_personagens_t_hover.png
+images\avatars\menus\lista_personagens_t_idle.png
+images\avatars\menus\lista_personagens_terminar_hover.png
+images\avatars\menus\lista_personagens_terminar_idle.png
+images\avatars\menus\studentlist.png
+images\avatars\menus\studentlist_hover.png
+images\avatars\menus\studentlist_idle.png
+images\avatars\originais\abel1anger2.png
+images\avatars\originais\abel5sadness2.png
+images\avatars\originais\abel_angry.png
+images\avatars\originais\abel_disgust.png
+images\avatars\originais\abel_fear.png
+images\avatars\originais\abel_happy.png
+images\avatars\originais\abel_laugh.png
+images\avatars\originais\abel_normal.png
+images\avatars\originais\abel_sad.png
+images\avatars\originais\abel_surprise.png
+images\avatars\originais\carmen1anger1.png
+images\avatars\originais\carmen3surprise.png
+images\avatars\originais\carmen5sadness1.png
+images\avatars\originais\carmen6fear.png
+images\avatars\originais\carmen_angry.png
+images\avatars\originais\carmen_disgust.png
+images\avatars\originais\carmen_happy.png
+images\avatars\originais\carmen_laugh.png
+images\avatars\originais\carmen_normal.png
+images\avatars\originais\carmen_sad.png
+images\avatars\originais\estrela_angry.png
+images\avatars\originais\estrela_disgust.png
+images\avatars\originais\estrela_fear.png
+images\avatars\originais\estrela_happy.png
+images\avatars\originais\estrela_normal.png
+images\avatars\originais\estrela_sad.png
+images\avatars\originais\estrela_surprise.png
+images\avatars\originais\helder_angry.png
+images\avatars\originais\helder_disgust.png
+images\avatars\originais\helder_fear.png
+images\avatars\originais\helder_happy.png
+images\avatars\originais\helder_normal.png
+images\avatars\originais\helder_sad.png
+images\avatars\originais\helder_surprise.png
+images\avatars\originais\isabel_angry.png
+images\avatars\originais\isabel_disgust.png
+images\avatars\originais\isabel_happy.png
+images\avatars\originais\isabel_laugh.png
+images\avatars\originais\isabel_normal.png
+images\avatars\originais\isabel_sad.png
+images\avatars\originais\jorge_angry.png
+images\avatars\originais\jorge_happy.png
+images\avatars\originais\jorge_normal.png
+images\avatars\originais\jorge_sad.png
+images\avatars\originais\manuela_angry.png
+images\avatars\originais\manuela_happy.png
+images\avatars\originais\manuela_normal.png
+images\avatars\originais\manuela_sad.png
+images\avatars\originais\nando_angry.png
+images\avatars\originais\nando_happy.png
+images\avatars\originais\nando_laugh.png
+images\avatars\originais\nando_mean.png
+images\avatars\originais\nando_normal.png
+images\avatars\originais\nando_sad.png
+images\avatars\originais\patricia_angry.png
+images\avatars\originais\patricia_disgust.png
+images\avatars\originais\patricia_happy.png
+images\avatars\originais\patricia_normal.png
+images\avatars\originais\patricia_sad.png
+images\avatars\originais\rui_angry.png
+images\avatars\originais\rui_happy.png
+images\avatars\originais\rui_laugh.png
+images\avatars\originais\rui_normal.png
+images\avatars\originais\rui_sad.png
+images\avatars\originais\samuel_angry.png
+images\avatars\originais\samuel_happy.png
+images\avatars\originais\samuel_laugh.png
+images\avatars\originais\samuel_normal.png
+images\avatars\originais\samuel_sad.png
+images\avatars\originais\tatiana_angry.png
+images\avatars\originais\tatiana_happy.png
+images\avatars\originais\tatiana_normal.png
+images\avatars\originais\tatiana_sad.png
+images\chats\as rets.png
+images\chats\bubble exclamation.png
+images\chats\bubble thought original.png
+images\chats\bubble0.png
+images\chats\bubble00.png
+images\chats\bubble01.png
+images\chats\bubble01og.png
+images\chats\bubble02.png
+images\chats\bubble03.png
+images\chats\bubble1.png
+images\chats\bubble2.png
+images\chats\bubble3.png
+images\chats\characters\Abel 1.png
+images\chats\characters\Abel 2.png
+images\chats\characters\Cármen 1.png
+images\chats\characters\Cármen 2.png
+images\chats\characters\Estrela 1.png
+images\chats\characters\Estrela 2.png
+images\chats\characters\Hélder 1.png
+images\chats\characters\Hélder 2.png
+images\chats\characters\Isabel 1.png
+images\chats\characters\Isabel 2.png
+images\chats\characters\Jorge 1.png
+images\chats\characters\Jorge 2.png
+images\chats\characters\Manuela 1.png
+images\chats\characters\Manuela 2.png
+images\chats\characters\Nando 1.png
+images\chats\characters\Nando 2.png
+images\chats\characters\Patrícia 1.png
+images\chats\characters\Patrícia 2.png
+images\chats\characters\Rui 1.png
+images\chats\characters\Rui 2.png
+images\chats\characters\Samuel 1.png
+images\chats\characters\Samuel 2.png
+images\chats\characters\Tatiana 1.png
+images\chats\characters\Tatiana 2.png
+images\chats\characters\everyone.png
+images\chats\characters\everyone2.png
+images\chats\characters\z aluno apoio.png
+images\chats\lista\estrela, helder, isabel, samuel, tatiana hover.png
+images\chats\lista\estrela, helder, isabel, samuel, tatiana idle.png
+images\chats\lista\estrela, hélder, rui hover.png
+images\chats\lista\estrela, hélder, rui idle.png
+images\chats\lista\estrela, isabel, rui hover.png
+images\chats\lista\estrela, isabel, rui idle.png
+images\chats\lista\estrela, samuel idle.png
+images\chats\lista\isabel, manuela hover.png
+images\chats\lista\isabel, manuela idle.png
+images\chats\lista\jorge, nando hover.png
+images\chats\lista\jorge, nando idle.png
+images\chats\lista\jorge, samuel hover.png
+images\chats\lista\jorge, samuel idle.png
+images\chats\session_0\chat_s0_11_hover.png
+images\chats\session_0\chat_s0_11_idle.png
+images\chats\session_0\chat_s0_12_hover.png
+images\chats\session_0\chat_s0_12_idle.png
+images\chats\session_0\chat_s0_2_hover.png
+images\chats\session_0\chat_s0_2_idle.png
+images\chats\session_0\chat_s0_3_hover.png
+images\chats\session_0\chat_s0_3_idle.png
+images\chats\session_0\chat_s0_4_hover.png
+images\chats\session_0\chat_s0_4_idle.png
+images\chats\session_0\chat_s0_a.png
+images\chats\session_1\a.png
+images\chats\session_1\bubble_i0_g0.png
+images\chats\session_1\bubble_i0_g1.png
+images\chats\session_1\bubble_i0_g2.png
+images\chats\session_1\bubble_i0_g3.png
+images\chats\session_1\bubble_i0_g4.png
+images\chats\session_1\bubble_i0_g5.png
+images\chats\session_1\bubble_i0_g6.png
+images\chats\session_1\bubble_i0_g7.png
+images\chats\session_1\bubble_i0_g8.png
+images\chats\session_1\chat_i0_cb_hover.png
+images\chats\session_1\chat_i0_cb_idle.png
+images\chats\session_1\chat_i0_cr.png
+images\chats\session_1\chat_i0_g0_hover.png
+images\chats\session_1\chat_i0_g0_idle.png
+images\chats\session_1\chat_i0_g10_hover.png
+images\chats\session_1\chat_i0_g10_idle.png
+images\chats\session_1\chat_i0_g1_hover.png
+images\chats\session_1\chat_i0_g1_idle.png
+images\chats\session_1\chat_i0_g2_hover.png
+images\chats\session_1\chat_i0_g2_idle.png
+images\chats\session_1\chat_i0_g3_hover.png
+images\chats\session_1\chat_i0_g3_idle.png
+images\chats\session_1\chat_i0_g4_hover.png
+images\chats\session_1\chat_i0_g4_idle.png
+images\chats\session_1\chat_i0_g5_hover.png
+images\chats\session_1\chat_i0_g5_idle.png
+images\chats\session_1\chat_i0_g6_hover.png
+images\chats\session_1\chat_i0_g6_idle.png
+images\chats\session_1\chat_i0_g7_hover.png
+images\chats\session_1\chat_i0_g7_idle.png
+images\chats\session_1\chat_i0_g8_hover.png
+images\chats\session_1\chat_i0_g8_idle.png
+images\chats\session_1\chat_i0_g9_hover.png
+images\chats\session_1\chat_i0_g9_idle.png
+images\chats\session_1\chat_i1_g0_hover.png
+images\chats\session_1\chat_i1_g0_idle.png
+images\chats\session_1\chat_i1_g10_hover.png
+images\chats\session_1\chat_i1_g10_idle.png
+images\chats\session_1\chat_i1_g11_hover.png
+images\chats\session_1\chat_i1_g11_idle.png
+images\chats\session_1\chat_i1_g12_hover.png
+images\chats\session_1\chat_i1_g12_idle.png
+images\chats\session_1\chat_i1_g13_hover.png
+images\chats\session_1\chat_i1_g13_idle.png
+images\chats\session_1\chat_i1_g1_hover.png
+images\chats\session_1\chat_i1_g1_idle.png
+images\chats\session_1\chat_i1_g2_hover.png
+images\chats\session_1\chat_i1_g2_idle.png
+images\chats\session_1\chat_i1_g3_hover.png
+images\chats\session_1\chat_i1_g3_idle.png
+images\chats\session_1\chat_i1_g4_hover.png
+images\chats\session_1\chat_i1_g4_idle.png
+images\chats\session_1\chat_i1_g5_hover.png
+images\chats\session_1\chat_i1_g5_idle.png
+images\chats\session_1\chat_i1_g6_hover.png
+images\chats\session_1\chat_i1_g6_idle.png
+images\chats\session_1\chat_i1_g7_hover.png
+images\chats\session_1\chat_i1_g7_idle.png
+images\chats\session_1\chat_i1_g8_hover.png
+images\chats\session_1\chat_i1_g8_idle.png
+images\chats\session_1\chat_i1_g9_hover.png
+images\chats\session_1\chat_i1_g9_idle.png
+images\chats\session_1\chat_i2_cb_hover.png
+images\chats\session_1\chat_i2_cb_idle.png
+images\chats\session_1\chat_i2_g0_hover.png
+images\chats\session_1\chat_i2_g0_idle.png
+images\chats\session_1\chat_i2_g10_hover.png
+images\chats\session_1\chat_i2_g10_idle.png
+images\chats\session_1\chat_i2_g1_hover.png
+images\chats\session_1\chat_i2_g1_idle.png
+images\chats\session_1\chat_i2_g2_hover.png
+images\chats\session_1\chat_i2_g2_idle.png
+images\chats\session_1\chat_i2_g3_hover.png
+images\chats\session_1\chat_i2_g3_idle.png
+images\chats\session_1\chat_i2_g4_hover.png
+images\chats\session_1\chat_i2_g4_idle.png
+images\chats\session_1\chat_i2_g5_hover.png
+images\chats\session_1\chat_i2_g5_idle.png
+images\chats\session_1\chat_i2_g6_hover.png
+images\chats\session_1\chat_i2_g6_idle.png
+images\chats\session_1\chat_i2_g7_hover.png
+images\chats\session_1\chat_i2_g7_idle.png
+images\chats\session_1\chat_i2_g8_hover.png
+images\chats\session_1\chat_i2_g8_idle.png
+images\chats\session_1\chat_i2_g9_hover.png
+images\chats\session_1\chat_i2_g9_idle.png
+images\chats\session_1\outgroup cinza\chat_i0_cb_hover.png
+images\chats\session_1\outgroup cinza\chat_i0_cb_idle.png
+images\chats\session_1\outgroup cinza\chat_i0_cr.png
+images\chats\session_1\outgroup cinza\chat_i0_g0_hover.png
+images\chats\session_1\outgroup cinza\chat_i0_g0_idle.png
+images\chats\session_1\outgroup cinza\chat_i0_g10_hover.png
+images\chats\session_1\outgroup cinza\chat_i0_g10_idle.png
+images\chats\session_1\outgroup cinza\chat_i0_g1_hover.png
+images\chats\session_1\outgroup cinza\chat_i0_g1_idle.png
+images\chats\session_1\outgroup cinza\chat_i0_g2_hover.png
+images\chats\session_1\outgroup cinza\chat_i0_g2_idle.png
+images\chats\session_1\outgroup cinza\chat_i0_g3_hover.png
+images\chats\session_1\outgroup cinza\chat_i0_g3_idle.png
+images\chats\session_1\outgroup cinza\chat_i0_g4_hover.png
+images\chats\session_1\outgroup cinza\chat_i0_g4_idle.png
+images\chats\session_1\outgroup cinza\chat_i0_g5_hover.png
+images\chats\session_1\outgroup cinza\chat_i0_g5_idle.png
+images\chats\session_1\outgroup cinza\chat_i0_g6_hover.png
+images\chats\session_1\outgroup cinza\chat_i0_g6_idle.png
+images\chats\session_1\outgroup cinza\chat_i0_g7_hover.png
+images\chats\session_1\outgroup cinza\chat_i0_g7_idle.png
+images\chats\session_1\outgroup cinza\chat_i0_g8_hover.png
+images\chats\session_1\outgroup cinza\chat_i0_g8_idle.png
+images\chats\session_1\outgroup cinza\chat_i0_g9_hover.png
+images\chats\session_1\outgroup cinza\chat_i0_g9_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g0_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g0_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g10_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g10_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g11_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g11_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g12_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g12_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g13_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g13_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g1_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g1_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g2_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g2_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g3_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g3_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g4_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g4_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g5_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g5_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g6_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g6_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g7_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g7_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g8_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g8_idle.png
+images\chats\session_1\outgroup cinza\chat_i1_g9_hover.png
+images\chats\session_1\outgroup cinza\chat_i1_g9_idle.png
+images\chats\session_1\outgroup cinza\chat_i2_cb_hover.png
+images\chats\session_1\outgroup cinza\chat_i2_cb_idle.png
+images\chats\session_1\outgroup cinza\chat_i2_g0_hover.png
+images\chats\session_1\outgroup cinza\chat_i2_g0_idle.png
+images\chats\session_1\outgroup cinza\chat_i2_g10_hover.png
+images\chats\session_1\outgroup cinza\chat_i2_g10_idle.png
+images\chats\session_1\outgroup cinza\chat_i2_g1_hover.png
+images\chats\session_1\outgroup cinza\chat_i2_g1_idle.png
+images\chats\session_1\outgroup cinza\chat_i2_g2_hover.png
+images\chats\session_1\outgroup cinza\chat_i2_g2_idle.png
+images\chats\session_1\outgroup cinza\chat_i2_g3_hover.png
+images\chats\session_1\outgroup cinza\chat_i2_g3_idle.png
+images\chats\session_1\outgroup cinza\chat_i2_g4_hover.png
+images\chats\session_1\outgroup cinza\chat_i2_g4_idle.png
+images\chats\session_1\outgroup cinza\chat_i2_g5_hover.png
+images\chats\session_1\outgroup cinza\chat_i2_g5_idle.png
+images\chats\session_1\outgroup cinza\chat_i2_g6_hover.png
+images\chats\session_1\outgroup cinza\chat_i2_g6_idle.png
+images\chats\session_1\outgroup cinza\chat_i2_g7_hover.png
+images\chats\session_1\outgroup cinza\chat_i2_g7_idle.png
+images\chats\session_1\outgroup cinza\chat_i2_g8_hover.png
+images\chats\session_1\outgroup cinza\chat_i2_g8_idle.png
+images\chats\session_1\outgroup cinza\chat_i2_g9_hover.png
+images\chats\session_1\outgroup cinza\chat_i2_g9_idle.png
+images\chats\session_1\white colors\chat_i0_cb_idle.png
+images\chats\session_1\white colors\chat_i0_g0_idle.png
+images\chats\session_1\white colors\chat_i0_g1_idle.png
+images\chats\session_1\white colors\chat_i0_g2_idle.png
+images\chats\session_1\white colors\chat_i0_g3_idle.png
+images\chats\session_1\white colors\chat_i0_g4_idle.png
+images\chats\session_1\white colors\chat_i0_g5_idle.png
+images\chats\session_1\white colors\chat_i0_g6_idle.png
+images\chats\session_1\white colors\chat_i0_g7_idle.png
+images\chats\session_1\white colors\chat_i0_g8_idle.png
+images\chats\session_1\white colors\chat_i3_g0_hover.png
+images\chats\session_1\white colors\chat_i3_g0_idle.png
+images\chats\session_1\white colors\chat_i3_g1_hover.png
+images\chats\session_1\white colors\chat_i3_g1_idle.png
+images\chats\session_1\white colors\chat_i3_g3_hover.png
+images\chats\session_1\white colors\chat_i3_g3_idle.png
+images\chats\session_1\white colors\chat_i3_g5_hover.png
+images\chats\session_1\white colors\chat_i3_g5_idle.png
+images\chats\session_1\white colors\chat_i3_g6_hover.png
+images\chats\session_1\white colors\chat_i3_g6_idle.png
+images\chats\session_1\white colors\chat_i3_g9_hover.png
+images\chats\session_1\white colors\chat_i3_g9_idle.png
+images\chats\session_1\white colors\nchat_i0_g0_hover.png
+images\chats\session_1\white colors\nchat_i0_g0_idle.png
+images\chats\session_1\white colors\nchat_i0_g2_hover.png
+images\chats\session_1\white colors\nchat_i0_g2_idle.png
+images\chats\session_1\white colors\nchat_i0_g4_hover.png
+images\chats\session_1\white colors\nchat_i0_g4_idle.png
+images\chats\session_1\white colors\nchat_i0_g5_hover.png
+images\chats\session_1\white colors\nchat_i0_g5_idle.png
+images\chats\session_1\white colors\nchat_i0_g7_hover.png
+images\chats\session_1\white colors\nchat_i0_g7_idle.png
+images\chats\session_1\white colors\nchat_i1_g7_hover.png
+images\chats\session_1\white colors\nchat_i1_g7_idle.png
+images\chats\session_1\white colors\nchat_i2_cb_hover.png
+images\chats\session_1\white colors\nchat_i2_cb_idle.png
+images\chats\session_1\white colors\nchat_i2_g0_hover.png
+images\chats\session_1\white colors\nchat_i2_g0_idle.png
+images\chats\session_1\white colors\nchat_i2_g1_hover.png
+images\chats\session_1\white colors\nchat_i2_g1_idle.png
+images\chats\session_1\white colors\nchat_i2_g2_hover.png
+images\chats\session_1\white colors\nchat_i2_g2_idle.png
+images\chats\session_1\white colors\nchat_i2_g4_hover.png
+images\chats\session_1\white colors\nchat_i2_g4_idle.png
+images\chats\session_2\chat_i0_cb_hover.png
+images\chats\session_2\chat_i0_cb_idle.png
+images\chats\session_2\chat_i0_cr1.png
+images\chats\session_2\chat_i0_cr2.png
+images\chats\session_2\chat_i0_g0_hover.png
+images\chats\session_2\chat_i0_g0_idle.png
+images\chats\session_2\chat_i0_g10_hover.png
+images\chats\session_2\chat_i0_g10_idle.png
+images\chats\session_2\chat_i0_g11_hover.png
+images\chats\session_2\chat_i0_g11_idle.png
+images\chats\session_2\chat_i0_g1_hover.png
+images\chats\session_2\chat_i0_g1_idle.png
+images\chats\session_2\chat_i0_g2_hover.png
+images\chats\session_2\chat_i0_g2_idle.png
+images\chats\session_2\chat_i0_g3_hover.png
+images\chats\session_2\chat_i0_g3_idle.png
+images\chats\session_2\chat_i0_g4_hover.png
+images\chats\session_2\chat_i0_g4_idle.png
+images\chats\session_2\chat_i0_g5_hover.png
+images\chats\session_2\chat_i0_g5_idle.png
+images\chats\session_2\chat_i0_g6_hover.png
+images\chats\session_2\chat_i0_g6_idle.png
+images\chats\session_2\chat_i0_g7_hover.png
+images\chats\session_2\chat_i0_g7_idle.png
+images\chats\session_2\chat_i0_g8_hover.png
+images\chats\session_2\chat_i0_g8_idle.png
+images\chats\session_2\chat_i0_g9_hover.png
+images\chats\session_2\chat_i0_g9_idle.png
+images\chats\session_2\chat_i1_cr1.png
+images\chats\session_2\chat_i1_cr2.png
+images\chats\session_2\chat_i1_g0_hover.png
+images\chats\session_2\chat_i1_g0_idle.png
+images\chats\session_2\chat_i1_g10_hover.png
+images\chats\session_2\chat_i1_g10_idle.png
+images\chats\session_2\chat_i1_g11_hover.png
+images\chats\session_2\chat_i1_g11_idle.png
+images\chats\session_2\chat_i1_g1_hover.png
+images\chats\session_2\chat_i1_g1_idle.png
+images\chats\session_2\chat_i1_g2_hover.png
+images\chats\session_2\chat_i1_g2_idle.png
+images\chats\session_2\chat_i1_g3_hover.png
+images\chats\session_2\chat_i1_g3_idle.png
+images\chats\session_2\chat_i1_g4_hover.png
+images\chats\session_2\chat_i1_g4_idle.png
+images\chats\session_2\chat_i1_g5_hover.png
+images\chats\session_2\chat_i1_g5_idle.png
+images\chats\session_2\chat_i1_g6_hover.png
+images\chats\session_2\chat_i1_g6_idle.png
+images\chats\session_2\chat_i1_g7_hover.png
+images\chats\session_2\chat_i1_g7_idle.png
+images\chats\session_2\chat_i1_g8_hover.png
+images\chats\session_2\chat_i1_g8_idle.png
+images\chats\session_2\chat_i1_g9_hover.png
+images\chats\session_2\chat_i1_g9_idle.png
+images\chats\session_2\chat_i2_cb_hover.png
+images\chats\session_2\chat_i2_cb_idle.png
+images\chats\session_2\chat_i2_g0_hover.png
+images\chats\session_2\chat_i2_g0_idle.png
+images\chats\session_2\chat_i2_g1_hover.png
+images\chats\session_2\chat_i2_g1_idle.png
+images\chats\session_2\chat_i2_g2_hover.png
+images\chats\session_2\chat_i2_g2_idle.png
+images\chats\session_2\chat_i2_g3_hover.png
+images\chats\session_2\chat_i2_g3_idle.png
+images\chats\session_2\chat_i2_g4_hover.png
+images\chats\session_2\chat_i2_g4_idle.png
+images\chats\session_2\chat_i2_g5_hover.png
+images\chats\session_2\chat_i2_g5_idle.png
+images\chats\session_2\chat_i2_g6_hover.png
+images\chats\session_2\chat_i2_g6_idle.png
+images\chats\session_2\chat_i2_g7_hover.png
+images\chats\session_2\chat_i2_g7_idle.png
+images\chats\session_2\chat_i2_g8_hover.png
+images\chats\session_2\chat_i2_g8_idle.png
+images\chats\session_2\chat_i2_g9_hover.png
+images\chats\session_2\chat_i2_g9_idle.png
+images\chats\session_2\Nova pasta\carmen,manuela hover.png
+images\chats\session_2\Nova pasta\carmen,manuela idle.png
+images\chats\session_2\Nova pasta\carmen,nando,patricia hover.png
+images\chats\session_2\Nova pasta\carmen,nando,patricia idle.png
+images\chats\session_2\Nova pasta\manuela,patricia hover.png
+images\chats\session_2\Nova pasta\manuela,patricia idle.png
+images\chats\session_3\chat_i0_cb_hover.png
+images\chats\session_3\chat_i0_cb_idle.png
+images\chats\session_3\chat_i0_cr2.png
+images\chats\session_3\chat_i0_g0_hover.png
+images\chats\session_3\chat_i0_g0_idle.png
+images\chats\session_3\chat_i0_g10_hover.png
+images\chats\session_3\chat_i0_g10_idle.png
+images\chats\session_3\chat_i0_g1_hover.png
+images\chats\session_3\chat_i0_g1_idle.png
+images\chats\session_3\chat_i0_g2_hover.png
+images\chats\session_3\chat_i0_g2_idle.png
+images\chats\session_3\chat_i0_g3_hover.png
+images\chats\session_3\chat_i0_g3_idle.png
+images\chats\session_3\chat_i0_g4_hover.png
+images\chats\session_3\chat_i0_g4_idle.png
+images\chats\session_3\chat_i0_g5_hover.png
+images\chats\session_3\chat_i0_g5_idle.png
+images\chats\session_3\chat_i0_g6_hover.png
+images\chats\session_3\chat_i0_g6_idle.png
+images\chats\session_3\chat_i0_g7_hover.png
+images\chats\session_3\chat_i0_g7_idle.png
+images\chats\session_3\chat_i0_g8_hover.png
+images\chats\session_3\chat_i0_g8_idle.png
+images\chats\session_3\chat_i0_g9_hover.png
+images\chats\session_3\chat_i0_g9_idle.png
+images\chats\session_3\chat_i1_g0_hover.png
+images\chats\session_3\chat_i1_g0_idle.png
+images\chats\session_3\chat_i1_g10_hover.png
+images\chats\session_3\chat_i1_g10_idle.png
+images\chats\session_3\chat_i1_g11_hover.png
+images\chats\session_3\chat_i1_g11_idle.png
+images\chats\session_3\chat_i1_g1_hover.png
+images\chats\session_3\chat_i1_g1_idle.png
+images\chats\session_3\chat_i1_g2_hover.png
+images\chats\session_3\chat_i1_g2_idle.png
+images\chats\session_3\chat_i1_g3_hover.png
+images\chats\session_3\chat_i1_g3_idle.png
+images\chats\session_3\chat_i1_g4_hover.png
+images\chats\session_3\chat_i1_g4_idle.png
+images\chats\session_3\chat_i1_g5_hover.png
+images\chats\session_3\chat_i1_g5_idle.png
+images\chats\session_3\chat_i1_g6_hover.png
+images\chats\session_3\chat_i1_g6_idle.png
+images\chats\session_3\chat_i1_g7_hover.png
+images\chats\session_3\chat_i1_g7_idle.png
+images\chats\session_3\chat_i1_g8_hover.png
+images\chats\session_3\chat_i1_g8_idle.png
+images\chats\session_3\chat_i1_g9_hover.png
+images\chats\session_3\chat_i1_g9_idle.png
+images\chats\session_3\chat_i2_cb_hover.png
+images\chats\session_3\chat_i2_cb_idle.png
+images\chats\session_3\chat_i2_g0_hover.png
+images\chats\session_3\chat_i2_g0_idle.png
+images\chats\session_3\chat_i2_g10_hover.png
+images\chats\session_3\chat_i2_g10_idle.png
+images\chats\session_3\chat_i2_g1_hover.png
+images\chats\session_3\chat_i2_g1_idle.png
+images\chats\session_3\chat_i2_g2_hover.png
+images\chats\session_3\chat_i2_g2_idle.png
+images\chats\session_3\chat_i2_g3_hover.png
+images\chats\session_3\chat_i2_g3_idle.png
+images\chats\session_3\chat_i2_g4_hover.png
+images\chats\session_3\chat_i2_g4_idle.png
+images\chats\session_3\chat_i2_g5_hover.png
+images\chats\session_3\chat_i2_g5_idle.png
+images\chats\session_3\chat_i2_g6_hover.png
+images\chats\session_3\chat_i2_g6_idle.png
+images\chats\session_3\chat_i2_g7_hover.png
+images\chats\session_3\chat_i2_g7_idle.png
+images\chats\session_3\chat_i2_g8_hover.png
+images\chats\session_3\chat_i2_g8_idle.png
+images\chats\session_3\chat_i2_g9_hover.png
+images\chats\session_3\chat_i2_g9_idle.png
+images\feedback\feedback.png
+images\feedback\feedbackNew.png
+images\feedback\reflexao_hover.png
+images\feedback\reflexao_idle.png
+images\map\here.png
+images\map\here0.png
+images\map\here1.png
+images\map\here10.png
+images\map\here11.png
+images\map\here12.png
+images\map\here13.png
+images\map\here14.png
+images\map\here2.png
+images\map\here3.png
+images\map\here4.png
+images\map\here5.png
+images\map\here6.png
+images\map\here7.png
+images\map\here8.png
+images\map\here9.png
+images\map\map_hover.png
+images\map\map_idle.png
+images\map\mapa1.png
+images\map\mapa2.png
+images\map\mapa3.png
+images\map\maplist_hover.png
+images\map\maplist_idle.png
+images\map\piso1.png
+images\map\piso2.png
+images\map\piso3.png
+images\map\menus\map_hover.png
+images\map\menus\map_idle.png
+images\menus\feedback_hover.png
+images\menus\feedback_idle.png
+images\menus\feedback_idle_new.png
+images\menus\maplist_hover.png
+images\menus\maplist_idle.png
+images\menus\maplist_idle_new.png
+images\menus\menulist_hover.png
+images\menus\menulist_idle.png
+images\menus\menulist_idle_new.png
+images\menus\old_feedback_hover.png
+images\menus\old_feedback_idle.png
+images\menus\old_feedback_idle_new.png
+images\menus\studentlist_hover.png
+images\menus\studentlist_idle.png
+images\menus\studentlist_idle_new.png
+images\menus\tasklist_hover.png
+images\menus\tasklist_idle.png
+images\menus\tasklist_idle_new.png
+images\menus\maplist\here0.png
+images\menus\maplist\here1.png
+images\menus\maplist\here10.png
+images\menus\maplist\here11.png
+images\menus\maplist\here12.png
+images\menus\maplist\here13.png
+images\menus\maplist\here14.png
+images\menus\maplist\here15.png
+images\menus\maplist\here16.png
+images\menus\maplist\here17.png
+images\menus\maplist\here18.png
+images\menus\maplist\here2.png
+images\menus\maplist\here3.png
+images\menus\maplist\here4.png
+images\menus\maplist\here5.png
+images\menus\maplist\here6.png
+images\menus\maplist\here7.png
+images\menus\maplist\here8.png
+images\menus\maplist\here9.png
+images\menus\maplist\maplist_1.png
+images\menus\maplist\maplist_2.png
+images\menus\maplist\maplist_2a.png
+images\menus\maplist\maplist_2b.png
+images\menus\maplist\maplist_2c.png
+images\menus\maplist\maplist_3.png
+images\menus\maplist\maplist_3a.png
+images\menus\maplist\maplist_3b.png
+images\menus\maplist\maplist_3c.png
+images\menus\outgroup\abel_outgroup_hover.png
+images\menus\outgroup\abel_outgroup_idle.png
+images\menus\outgroup\manuela_outgroup_hover.png
+images\menus\outgroup\manuela_outgroup_idle.png
+images\menus\outgroup\nando_outgroup_hover.png
+images\menus\outgroup\nando_outgroup_idle.png
+images\menus\outgroup\outgroup.png
+images\menus\outgroup\outgroup1.png
+images\menus\outgroup\patricia_outgroup_hover.png
+images\menus\outgroup\patricia_outgroup_idle.png
+images\menus\outgroup\rui_outgroup_hover.png
+images\menus\outgroup\rui_outgroup_idle.png
+images\menus\outgroup\tatiana_outgroup_hover.png
+images\menus\outgroup\tatiana_outgroup_idle.png
+images\menus\studentlist\student_hover.png
+images\menus\studentlist\student_idle.png
+images\menus\studentlist\student_idle1.png
+images\menus\studentlist\studentlist old.png
+images\menus\studentlist\studentlist.png
+images\menus\studentlist\studentlist1.png
+images\menus\studentlist\studentlist2.png
+images\menus\tasklist\tasklist.png
+images\menus\tasklist\tasklist_1.png
+images\menus\tasklist\tasklist_1_idle.png
+images\menus\tasklist\tasklist_2.png
+images\menus\tasklist\tasklist_2_hover.png
+images\menus\tasklist\tasklist_2_idle.png
+images\profs\colega.webp
+images\profs\prof1.png
+images\profs\prof1.svg
+images\profs\prof2.png
+images\profs\prof3.webp
+images\profs\prof4.jpg
+images\profs\profa1.png
+images\profs\profa2.webp
+images\profs\profa3.png
+images\profs\profa4.png
+images\profs\profs.png
+images\rooms\piso 3.png
+images\rooms\dia\aaa.png
+images\rooms\dia\aab.png
+images\rooms\dia\armazem_dia.jpg
+images\rooms\dia\art_10_saida_escadas_1_hover.png
+images\rooms\dia\art_10_saida_escadas_1_idle.png
+images\rooms\dia\art_10dia.jpg
+images\rooms\dia\artclass_dia.jpg
+images\rooms\dia\biblioteca_9dia.jpg
+images\rooms\dia\corredor_13dia.png
+images\rooms\dia\corredor_15dia.png
+images\rooms\dia\corredor_3_saida_sala_4_hover.png
+images\rooms\dia\corredor_3_saida_sala_4_idle.png
+images\rooms\dia\corredor_3dia.jpg
+images\rooms\dia\corredor_5_saida_sala_6_hover.png
+images\rooms\dia\corredor_5_saida_sala_6_idle.png
+images\rooms\dia\corredor_5dia.jpg
+images\rooms\dia\enfermaria_10dia.jpg
+images\rooms\dia\entrada_8_saida_escadas_0_hover.png
+images\rooms\dia\entrada_8_saida_escadas_0_hoverBACKUP.png
+images\rooms\dia\entrada_8_saida_escadas_0_idle.png
+images\rooms\dia\entrada_8_saida_escadas_1_hover.png
+images\rooms\dia\entrada_8_saida_escadas_1_idle.png
+images\rooms\dia\entrada_8_saidas_hover.png
+images\rooms\dia\entrada_8_saidas_idle.png
+images\rooms\dia\entrada_8dia.jpg
+images\rooms\dia\esc0backup.jpg
+images\rooms\dia\esc1backup.jpg
+images\rooms\dia\esc2backup.jpg
+images\rooms\dia\esc2backup2.jpg
+images\rooms\dia\escadas_0_saida_biblioteca_9_hover.png
+images\rooms\dia\escadas_0_saida_biblioteca_9_idle.png
+images\rooms\dia\escadas_0dia.png
+images\rooms\dia\escadas_11dia.png
+images\rooms\dia\escadas_13_saida_escritorio_14_hover.png
+images\rooms\dia\escadas_13_saida_escritorio_14_idle.png
+images\rooms\dia\escadas_13dia.png
+images\rooms\dia\escadas_1_saida_art_10_hover.png
+images\rooms\dia\escadas_1_saida_art_10_idle.png
+images\rooms\dia\escadas_1dia.png
+images\rooms\dia\escadas_2dia.png
+images\rooms\dia\escadas_7dia.png
+images\rooms\dia\escritorio_14_reuniao_hover.png
+images\rooms\dia\escritorio_14_reuniao_idle.png
+images\rooms\dia\gabinete_12dia.jpg
+images\rooms\dia\gabinete_12diaBACKUP.jpg
+images\rooms\dia\gabinete_18dia.jpg
+images\rooms\dia\pavilhao_20dia.png
+images\rooms\dia\piscina.jpg
+images\rooms\dia\polivalente_14dia.jpg
+images\rooms\dia\professores_14dia.png
+images\rooms\dia\saida_corredor_p3_hover.png
+images\rooms\dia\saida_corredor_p3_idle.png
+images\rooms\dia\saida_escadas_p3_hover.png
+images\rooms\dia\saida_escadas_p3_idle.png
+images\rooms\dia\saida_pavilhao_hover.png
+images\rooms\dia\saida_pavilhao_idle.png
+images\rooms\dia\saida_polivalente_hover.png
+images\rooms\dia\saida_polivalente_idle.png
+images\rooms\dia\sala_4_saida_corredor_3_hover.png
+images\rooms\dia\sala_4_saida_corredor_3_idle.png
+images\rooms\dia\sala_4dia.jpg
+images\rooms\dia\sala_6_saida_corredor_5_hover.png
+images\rooms\dia\sala_6_saida_corredor_5_idle.png
+images\rooms\dia\sala_6dia.jpg
+images\rooms\old\biblioteca.jpg
+images\rooms\old\corredor - Cópia.png
+images\rooms\old\corredor.png
+images\rooms\old\corredor_este.png
+images\rooms\old\corredor_este_saida_biblioteca_hover.png
+images\rooms\old\corredor_este_saida_biblioteca_idle.png
+images\rooms\old\corredor_este_saida_undefined_hover.png
+images\rooms\old\corredor_este_saida_undefined_idle.png
+images\rooms\old\corredor_oeste.png
+images\rooms\old\corredor_oeste_saida_escadas_hover.png
+images\rooms\old\corredor_oeste_saida_escadas_idle.png
+images\rooms\old\corredor_oeste_saida_sala_professores_hover.png
+images\rooms\old\corredor_oeste_saida_sala_professores_idle.png
+images\rooms\old\corredor_saida_escadas_hover.png
+images\rooms\old\corredor_saida_escadas_idle.png
+images\rooms\old\corredor_saida_sala_direita_hover.png
+images\rooms\old\corredor_saida_sala_direita_idle.png
+images\rooms\old\corredor_saida_sala_esquerda_hover.png
+images\rooms\old\corredor_saida_sala_esquerda_idle.png
+images\rooms\old\escadas_cimo.png
+images\rooms\old\escadas_meio.png
+images\rooms\old\f936c5a35c35c3f4d7c498fb8edad0f1.png
+images\rooms\old\lib.jpg
+images\rooms\old\sala_direita.png
+images\rooms\old\sala_esquerda.png
+images\rooms\old\sala_professores.png
+images\rooms\original dia\armazem_d.jpg
+images\rooms\original dia\art_class_d.jpg
+images\rooms\original dia\art_d.jpg
+images\rooms\original dia\biblioteca_13d.jpg
+images\rooms\original dia\corredor_3d.jpg
+images\rooms\original dia\corredor_5d.jpg
+images\rooms\original dia\dispensa_10d.jpg
+images\rooms\original dia\enfermaria_9d.jpg
+images\rooms\original dia\entrada_8d.jpg
+images\rooms\original dia\escadas_0d.jpg
+images\rooms\original dia\escadas_12d.jpg
+images\rooms\original dia\escadas_14d.jpg
+images\rooms\original dia\escadas_1d.jpg
+images\rooms\original dia\escadas_2d.jpg
+images\rooms\original dia\escadas_7d.jpg
+images\rooms\original dia\escritorio_15d.jpg
+images\rooms\original dia\piscina_11d.jpg
+images\rooms\original dia\professores_13d.png
+images\rooms\original dia\sala_4d.jpg
+images\rooms\original dia\sala_6d.jpg
+images\rooms\original tarde\armazem_t.jpg
+images\rooms\original tarde\art_class_t.jpg
+images\rooms\original tarde\art_t.jpg
+images\rooms\original tarde\biblioteca_13t.jpg
+images\rooms\original tarde\corredor_3t.jpg
+images\rooms\original tarde\corredor_5t.jpg
+images\rooms\original tarde\dispensa_10t.jpg
+images\rooms\original tarde\enfermaria_9t.jpg
+images\rooms\original tarde\entrada_8t.jpg
+images\rooms\original tarde\escadas_0t.jpg
+images\rooms\original tarde\escadas_12t.jpg
+images\rooms\original tarde\escadas_14t.jpg
+images\rooms\original tarde\escadas_1t.jpg
+images\rooms\original tarde\escadas_2t.jpg
+images\rooms\original tarde\escadas_7t.jpg
+images\rooms\original tarde\escritorio_15t.jpg
+images\rooms\original tarde\piscina_11t.jpg
+images\rooms\original tarde\sala_4t.jpg
+images\rooms\original tarde\sala_6t.jpg
+images\rooms\tarde\armazem_tarde.jpg
+images\rooms\tarde\art_10_saida_escadas_1_hover.png
+images\rooms\tarde\art_10_saida_escadas_1_idle.png
+images\rooms\tarde\art_10tarde.jpg
+images\rooms\tarde\artclass_tarde.jpg
+images\rooms\tarde\biblioteca_9tarde.jpg
+images\rooms\tarde\corredor_3_saida_sala_4_hover.png
+images\rooms\tarde\corredor_3_saida_sala_4_idle.png
+images\rooms\tarde\corredor_3tarde.jpg
+images\rooms\tarde\corredor_5_saida_sala_6_hover.png
+images\rooms\tarde\corredor_5_saida_sala_6_idle.png
+images\rooms\tarde\corredor_5tarde.jpg
+images\rooms\tarde\dispensa_12_saida_escadas_11_hover.png
+images\rooms\tarde\dispensa_12_saida_escadas_11_idle.png
+images\rooms\tarde\dispensa_12tarde.jpg
+images\rooms\tarde\enfermaria_10tarde.jpg
+images\rooms\tarde\entrada_8_saida_escadas_0_hover.png
+images\rooms\tarde\entrada_8_saida_escadas_0_idle.png
+images\rooms\tarde\entrada_8_saida_escadas_1_hover.png
+images\rooms\tarde\entrada_8_saida_escadas_1_idle.png
+images\rooms\tarde\entrada_8tarde.jpg
+images\rooms\tarde\escadas_0_saida_biblioteca_9_hover.png
+images\rooms\tarde\escadas_0_saida_biblioteca_9_idle.png
+images\rooms\tarde\escadas_0tarde.jpg
+images\rooms\tarde\escadas_11_saida_dispensa_12_hover.png
+images\rooms\tarde\escadas_11_saida_dispensa_12_idle.png
+images\rooms\tarde\escadas_11tarde.jpg
+images\rooms\tarde\escadas_13_saida_escritorio_14_hover.png
+images\rooms\tarde\escadas_13_saida_escritorio_14_idle.png
+images\rooms\tarde\escadas_13tarde.jpg
+images\rooms\tarde\escadas_1_saida_enfermaria_10_hover.png
+images\rooms\tarde\escadas_1_saida_enfermaria_10_idle.png
+images\rooms\tarde\escadas_1tarde.jpg
+images\rooms\tarde\escadas_2tarde.jpg
+images\rooms\tarde\escadas_7tarde.jpg
+images\rooms\tarde\gabinete_12tarde.jpg
+images\rooms\tarde\piscina_11t.jpg
+images\rooms\tarde\professores_14tarde.png
+images\rooms\tarde\sala_4_saida_corredor_3_hover.png
+images\rooms\tarde\sala_4_saida_corredor_3_idle.png
+images\rooms\tarde\sala_4tarde.jpg
+images\rooms\tarde\sala_6_saida_corredor_5_hover.png
+images\rooms\tarde\sala_6_saida_corredor_5_idle.png
+images\rooms\tarde\sala_6tarde.jpg
+images\tasks\a.png
+images\tasks\check.png
+images\tasks\cross.jpg
+images\tasks\cross.png
+images\tasks\notes.png
+images\tasks\sala_4_aula_hover.png
+images\tasks\sala_4_aula_hover_og.png
+images\tasks\sala_6_aula_hover.png
+images\tasks\sala_6_aula_hover_og.png
+images\tasks\table.png
+images\tasks\task0.png
+images\tasks\task10h.png
+images\tasks\task10i.png
+images\tasks\task11.png
+images\tasks\task12.png
+images\tasks\task13.png
+images\tasks\task14.png
+images\tasks\task15.png
+images\tasks\task16.png
+images\tasks\task17.png
+images\tasks\task18h.png
+images\tasks\task18i.png
+images\tasks\task19.png
+images\tasks\task1h.png
+images\tasks\task1i.png
+images\tasks\task2.png
+images\tasks\task20h.png
+images\tasks\task20i.png
+images\tasks\task21.png
+images\tasks\task22h.png
+images\tasks\task22i.png
+images\tasks\task23.png
+images\tasks\task23a.png
+images\tasks\task23b.png
+images\tasks\task23c.png
+images\tasks\task24.png
+images\tasks\task25.png
+images\tasks\task26.png
+images\tasks\task27.png
+images\tasks\task28.png
+images\tasks\task29.png
+images\tasks\task3.png
+images\tasks\task30h.png
+images\tasks\task30i.png
+images\tasks\task31.png
+images\tasks\task32h.png
+images\tasks\task32i.png
+images\tasks\task33.png
+images\tasks\task34h.png
+images\tasks\task34i.png
+images\tasks\task35.png
+images\tasks\task36.png
+images\tasks\task37.png
+images\tasks\task38.png
+images\tasks\task39.png
+images\tasks\task40h.png
+images\tasks\task40i.png
+images\tasks\task41.png
+images\tasks\task42h.png
+images\tasks\task42i.png
+images\tasks\task43.png
+images\tasks\task44.png
+images\tasks\task45.png
+images\tasks\task46h.png
+images\tasks\task46i.png
+images\tasks\task47.png
+images\tasks\task48.png
+images\tasks\task49.png
+images\tasks\task4h.png
+images\tasks\task4i.png
+images\tasks\task5.png
+images\tasks\task50h.png
+images\tasks\task50i.png
+images\tasks\task6h.png
+images\tasks\task6i.png
+images\tasks\task7.png
+images\tasks\task8h.png
+images\tasks\task8i.png
+images\tasks\task9.png
+images\tasks\clock\clock10_60.png
+images\tasks\clock\clock11_45.png
+images\tasks\clock\clock11_46.png
+images\tasks\clock\clock11_47.png
+images\tasks\clock\clock11_48.png
+images\tasks\clock\clock11_49.png
+images\tasks\clock\clock11_50.png
+images\tasks\clock\clock11_51.png
+images\tasks\clock\clock11_52.png
+images\tasks\clock\clock11_53.png
+images\tasks\clock\clock11_54.png
+images\tasks\clock\clock11_55.png
+images\tasks\clock\clock11_56.png
+images\tasks\clock\clock11_57.png
+images\tasks\clock\clock11_58.png
+images\tasks\clock\clock11_59.png
+images\tasks\clock\clock12_60.png
+images\tasks\clock\clock14_45.png
+images\tasks\clock\clock14_46.png
+images\tasks\clock\clock14_47.png
+images\tasks\clock\clock14_48.png
+images\tasks\clock\clock14_49.png
+images\tasks\clock\clock14_50.png
+images\tasks\clock\clock14_51.png
+images\tasks\clock\clock14_52.png
+images\tasks\clock\clock14_53.png
+images\tasks\clock\clock14_54.png
+images\tasks\clock\clock14_55.png
+images\tasks\clock\clock14_56.png
+images\tasks\clock\clock14_57.png
+images\tasks\clock\clock14_58.png
+images\tasks\clock\clock14_59.png
+images\tasks\clock\clock15_60.png
+images\tasks\clock\clock16_45.png
+images\tasks\clock\clock16_46.png
+images\tasks\clock\clock16_47.png
+images\tasks\clock\clock16_48.png
+images\tasks\clock\clock16_49.png
+images\tasks\clock\clock16_50.png
+images\tasks\clock\clock16_51.png
+images\tasks\clock\clock16_52.png
+images\tasks\clock\clock16_53.png
+images\tasks\clock\clock16_54.png
+images\tasks\clock\clock16_55.png
+images\tasks\clock\clock16_56.png
+images\tasks\clock\clock16_57.png
+images\tasks\clock\clock16_58.png
+images\tasks\clock\clock16_59.png
+images\tasks\clock\clock17_30.png
+images\tasks\clock\clock17_60.png
+images\tasks\clock\clock9_30.png
+images\tasks\clock\clock9_31.png
+images\tasks\clock\clock9_32.png
+images\tasks\clock\clock9_33.png
+images\tasks\clock\clock9_34.png
+images\tasks\clock\clock9_35.png
+images\tasks\clock\clock9_36.png
+images\tasks\clock\clock9_37.png
+images\tasks\clock\clock9_38.png
+images\tasks\clock\clock9_39.png
+images\tasks\clock\clock9_40.png
+images\tasks\clock\clock9_41.png
+images\tasks\clock\clock9_42.png
+images\tasks\clock\clock9_43.png
+images\tasks\clock\clock9_44.png
+images\tasks\clock\clock9_45.png
+images\tasks\clock\clock9_46.png
+images\tasks\clock\clock9_47.png
+images\tasks\clock\clock9_48.png
+images\tasks\clock\clock9_49.png
+images\tasks\clock\clock9_50.png
+images\tasks\clock\clock9_51.png
+images\tasks\clock\clock9_52.png
+images\tasks\clock\clock9_53.png
+images\tasks\clock\clock9_54.png
+images\tasks\clock\clock9_55.png
+images\tasks\clock\clock9_56.png
+images\tasks\clock\clock9_57.png
+images\tasks\clock\clock9_58.png
+images\tasks\clock\clock9_59.png
+images\tasks\random\check.png
+images\tasks\random\cross.jpg
+images\tasks\random\pngwing.com.png
+images\tasks\random\settings.png
+images\tasks\random\tasklist.png
+images\tasks\random\tasklist_1.png
+images\tasks\random\tasklist_1_hover.png
+images\tasks\random\tasklist_1_idle.png
+images\tasks\random\tasklist_2.png
+images\tasks\random\tasklist_2_hover.png
+images\tasks\random\tasklist_2_idle.png
+images\tasks\random\tasklist_hover.png
+images\tasks\random\tasklist_idle.png
+saves\1-1-LT1.save
+saves\1-2-LT1.save
+saves\1-3-LT1.save
+saves\1-4-LT1.save
+saves\1-5-LT1.save
+saves\1-6-LT1.save
+saves\2-1-LT1.save
+saves\2-2-LT1.save
+saves\2-3-LT1.save
+saves\2-4-LT1.save
+saves\2-5-LT1.save
+saves\2-6-LT1.save
+saves\3-2-LT1.save
+saves\3-3-LT1.save
+saves\4-2-LT1.save
+saves\4-4-LT1.save
+saves\4-5-LT1.save
+saves\4-6-LT1.save
+saves\5-1-LT1.save
+saves\_reload-2-LT1.save
+saves\auto-10-LT1.save
+saves\auto-7-LT1.save
+saves\auto-8-LT1.save
+saves\auto-9-LT1.save
+saves\auto-9-LT1.save.tmp
+saves\navigation.json
+saves\persistent
+tl\None\common.rpym
+tl\None\common.rpymc

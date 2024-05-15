@@ -1,0 +1,1396 @@
+﻿# personagens
+define player = Character("Professor", color="a9a9a9", who_outlines=[(absolute(1), "#000000")])
+
+define a = Character("Abel Polido", color="#3cb44b", image="abel", who_outlines=[(absolute(1), "#000000")])
+image side abel normal = im.Scale("avatars/abel_normal.png", 350, 350, bilinear=True)
+image side abel angry = im.Scale("avatars/abel_angry.png", 350, 350, bilinear=True)
+image side abel happy = im.Scale("avatars/abel_happy.png", 350, 350, bilinear=True)
+image side abel sad = im.Scale("avatars/abel_sad.png", 350, 350, bilinear=True)
+image side abel laugh = im.Scale("avatars/abel_laugh.png", 350, 350, bilinear=True)
+image side abel disgust = im.Scale("avatars/abel_disgust.png", 350, 350, bilinear=True)
+image side abel surprise = im.Scale("avatars/abel_surprise.png", 350, 350, bilinear=True)
+image side abel fear = im.Scale("avatars/abel_fear.png", 350, 350, bilinear=True)
+
+define c = Character("Cármen Semedo", color="#ffffff", image="carmen", who_outlines=[(absolute(1), "#000000")])
+image side carmen normal = im.Scale("avatars/carmen_normal.png", 350, 350, bilinear=True)
+image side carmen angry = im.Scale("avatars/carmen_angry.png", 350, 350, bilinear=True)
+image side carmen happy = im.Scale("avatars/carmen_happy.png", 350, 350, bilinear=True)
+image side carmen sad = im.Scale("avatars/carmen_sad.png", 350, 350, bilinear=True)
+image side carmen laugh = im.Scale("avatars/carmen_laugh.png", 350, 350, bilinear=True)
+image side carmen disgust = im.Scale("avatars/carmen_disgust.png", 350, 350, bilinear=True)
+
+define e = Character("Estrela Nunes", color="#4363d8", image="estrela", who_outlines=[(absolute(1), "#000000")])
+image side estrela normal = im.Scale("avatars/estrela_normal.png", 350, 350, bilinear=True)
+image side estrela angry = im.Scale("avatars/estrela_angry.png", 350, 350, bilinear=True)
+image side estrela happy = im.Scale("avatars/estrela_happy.png", 350, 350, bilinear=True)
+image side estrela sad = im.Scale("avatars/estrela_sad.png", 350, 350, bilinear=True)
+image side estrela laugh = im.Scale("avatars/estrela_laugh.png", 350, 350, bilinear=True)
+image side estrela disgust = im.Scale("avatars/estrela_disgust.png", 350, 350, bilinear=True)
+
+define h = Character("Hélder Almeida", color="#fffac8", image="helder", who_outlines=[(absolute(1), "#000000")])
+image side helder normal = im.Scale("avatars/helder_normal.png", 350, 350, bilinear=True)
+image side helder angry = im.Scale("avatars/helder_angry.png", 350, 350, bilinear=True)
+image side helder happy = im.Scale("avatars/helder_happy.png", 350, 350, bilinear=True)
+image side helder sad = im.Scale("avatars/helder_sad.png", 350, 350, bilinear=True)
+image side helder laugh = im.Scale("avatars/helder_laugh.png", 350, 350, bilinear=True)
+
+define i = Character("Isabel Torres", color="#e6194B", image="isabel", who_outlines=[(absolute(1), "#000000")])
+image side isabel normal = im.Scale("avatars/isabel_normal.png", 350, 350, bilinear=True)
+image side isabel angry = im.Scale("avatars/isabel_angry.png", 350, 350, bilinear=True)
+image side isabel happy = im.Scale("avatars/isabel_happy.png", 350, 350, bilinear=True)
+image side isabel sad = im.Scale("avatars/isabel_sad.png", 350, 350, bilinear=True)
+image side isabel laugh = im.Scale("avatars/isabel_laugh.png", 350, 350, bilinear=True)
+
+define j = Character("Jorge Amaral", color="#42d4f4", image="jorge", who_outlines=[(absolute(1), "#000000")])
+image side jorge normal = im.Scale("avatars/jorge_normal.png", 350, 350, bilinear=True)
+image side jorge angry = im.Scale("avatars/jorge_angry.png", 350, 350, bilinear=True)
+image side jorge happy = im.Scale("avatars/jorge_happy.png", 350, 350, bilinear=True)
+image side jorge sad = im.Scale("avatars/jorge_sad.png", 350, 350, bilinear=True)
+image side jorge laugh = im.Scale("avatars/jorge_laugh.png", 350, 350, bilinear=True)
+
+define m = Character("Manuela Leitão", color="#911eb4", image="manuela", who_outlines=[(absolute(1), "#000000")])
+image side manuela normal = im.Scale("avatars/manuela_normal.png", 350, 350, bilinear=True)
+image side manuela angry = im.Scale("avatars/manuela_angry.png", 350, 350, bilinear=True)
+image side manuela happy = im.Scale("avatars/manuela_happy.png", 350, 350, bilinear=True)
+image side manuela sad = im.Scale("avatars/manuela_sad.png", 350, 350, bilinear=True)
+image side manuela laugh = im.Scale("avatars/manuela_laugh.png", 350, 350, bilinear=True)
+
+define n = Character("Nando Sapina", color="#bfef45", image="nando", who_outlines=[(absolute(1), "#000000")])
+image side nando normal = im.Scale("avatars/nando_normal.png", 350, 350, bilinear=True)
+image side nando angry = im.Scale("avatars/nando_angry.png", 350, 350, bilinear=True)
+image side nando happy = im.Scale("avatars/nando_happy.png", 350, 350, bilinear=True)
+image side nando sad = im.Scale("avatars/nando_sad.png", 350, 350, bilinear=True)
+image side nando laugh = im.Scale("avatars/nando_laugh.png", 350, 350, bilinear=True)
+image side nando mean = im.Scale("avatars/nando_mean.png", 350, 350, bilinear=True)
+
+define p = Character("Patrícia Isidoro", color="#f58231", image="patricia", who_outlines=[(absolute(1), "#000000")])
+image side patricia normal = im.Scale("avatars/patricia_normal.png", 350, 350, bilinear=True)
+image side patricia angry = im.Scale("avatars/patricia_angry.png", 350, 350, bilinear=True)
+image side patricia happy = im.Scale("avatars/patricia_happy.png", 350, 350, bilinear=True)
+image side patricia sad = im.Scale("avatars/patricia_sad.png", 350, 350, bilinear=True)
+image side patricia laugh = im.Scale("avatars/patricia_laugh.png", 350, 350, bilinear=True)
+image side patricia disgust = im.Scale("avatars/patricia_disgust.png", 350, 350, bilinear=True)
+
+define r = Character("Rui Bento", color="#9A6324", image="rui", who_outlines=[(absolute(1), "#000000")])
+image side rui normal = im.Scale("avatars/rui_normal.png", 350, 350, bilinear=True)
+image side rui angry = im.Scale("avatars/rui_angry.png", 350, 350, bilinear=True)
+image side rui happy = im.Scale("avatars/rui_happy.png", 350, 350, bilinear=True)
+image side rui sad = im.Scale("avatars/rui_sad.png", 350, 350, bilinear=True)
+image side rui laugh = im.Scale("avatars/rui_laugh.png", 350, 350, bilinear=True)
+
+define s = Character("Samuel Andrade", color="#ffe119", image="samuel", who_outlines=[(absolute(1), "#000000")])
+image side samuel normal = im.Scale("avatars/samuel_normal.png", 350, 350, bilinear=True)
+image side samuel angry = im.Scale("avatars/samuel_angry.png", 350, 350, bilinear=True)
+image side samuel happy = im.Scale("avatars/samuel_happy.png", 350, 350, bilinear=True)
+image side samuel sad = im.Scale("avatars/samuel_sad.png", 350, 350, bilinear=True)
+image side samuel laugh = im.Scale("avatars/samuel_laugh.png", 350, 350, bilinear=True)
+
+define t = Character("Tatiana Delgado", color="#000000", image="tatiana", who_outlines=[(absolute(1), "#000000")])
+image side tatiana normal = im.Scale("avatars/tatiana_normal.png", 350, 350, bilinear=True)
+image side tatiana angry = im.Scale("avatars/tatiana_angry.png", 350, 350, bilinear=True)
+image side tatiana happy = im.Scale("avatars/tatiana_happy.png", 350, 350, bilinear=True)
+image side tatiana sad = im.Scale("avatars/tatiana_sad.png", 350, 350, bilinear=True)
+image side tatiana laugh = im.Scale("avatars/tatiana_laugh.png", 350, 350, bilinear=True)
+
+# variaveis
+default n_steps = -1
+default n_actions = 0
+default n_chats = 0
+default active_rooms = [-1]
+default chats_in_rooms = [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+default randomize = True
+default current_room = -1
+default intervalo = 0
+default chats_i0 = [0, 1, 2, 3, 4, 5, 7, 8]
+default chats_i0_rotation = 4
+default chats_i1 = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+default chats_i1_rotation = 5
+default chats_i2 = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+default chats_i2_rotation = 4
+default chats_i3 = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+default chats_i3_rotation = 5
+default movement_count = 0
+
+default tasklistActive = False
+default task1 = 0
+default task2 = 0
+default task3 = 0
+default task4 = 0
+default task5 = 0
+default task6 = 0
+
+default hours = 9
+default minutes = 45
+default seconds = 0
+default fakeminutes = 45
+default daytime = "dia"
+
+screen keymapscreen:
+       key "p" action SetVariable("minutes", minutes+5)
+
+# inicio e fim
+label start:
+    $ renpy.show_screen('keymapscreen')
+    player "{i}Mais um dia de aulas.{/i}"
+    jump intervalo_0
+label ending:
+    player "{i}Está na hora de ir para casa.{/i}"
+    $ MainMenu(confirm=False)()
+    return
+
+# tarefas
+screen tasklist:
+    zorder 100
+    if tasklistActive:
+        add "tasks/tasklist.png"
+        add "tasks/task1_"+str(task1)+".png"
+        add "tasks/task2_"+str(task2)+".png"
+        if (intervalo > 0):
+            add "tasks/task3_"+str(task3)+".png"
+            add "tasks/task4_"+str(task4)+".png"
+        if (intervalo > 1):
+            add "tasks/task5_"+str(task5)+".png"
+            add "tasks/task6_"+str(task6)+".png"
+    imagebutton:
+        idle "tasks/tasklist_idle.png"
+        hover "tasks/tasklist_hover.png"
+        action SetVariable("tasklistActive", not tasklistActive)
+        focus_mask True
+
+label tarefa1:
+    $ task1 = 1
+    player "{i}Tenho a chave, já posso ir para a sala.{/i}"
+    call leave_conversation from _call_leave_conversation_18
+    return
+label tarefa2:
+    $ task2 = 1
+    player "{i}Era este o livro que andava à procura.{/i}"
+    call leave_conversation from _call_leave_conversation_19
+    return
+label tarefa3:
+    $ task3 = 1
+    player "{i}Já tenho o livro de presenças da turma que vou dar aulas.{/i}"
+    call leave_conversation
+    return
+label tarefa4:
+    $ task4 = 1
+    player "{i}As fotocópias estão despachadas.{/i}"
+    call leave_conversation
+    return
+label tarefa5:
+    $ task5 = 1
+    player "{i}O compasso vai dar-me jeito para desenhar melhor a trigonometria.{/i}"
+    call leave_conversation
+    return
+label tarefa6:
+    $ task6 = 1
+    player "{i}Já tenho as minhas anotações feitas para a reunião.{/i}"
+    call leave_conversation
+    return
+
+# intervalos e periodos
+label periodo_aula:
+    $ renpy.hide_screen('tasklist')
+    scene black_screen
+    player "{i}Está na hora de ir para a aula.{/i}"
+    scene periodo_aula
+    with Fade(0.1, 0.0, 2)
+    with Pause(1)
+    scene black_screen
+    with Dissolve(1)
+    with Pause(1)
+
+    $ intervalo += 1
+    if intervalo == 1:
+        jump intervalo_1
+    elif intervalo == 2:
+        jump intervalo_2
+    elif intervalo == 3:
+        jump intervalo_3
+    else:
+        jump ending
+
+label intervalo_0:
+    $ renpy.hide_screen('tasklist')
+    scene black_screen
+    with Dissolve(1)
+    with Pause(1)
+    player "{i}A primeira aula começa às 10:00. Tenho 15 minutos.{/i}"
+
+    $ n_steps = -1
+    $ n_actions = 0
+    $ active_rooms = [0, 1, 2, 3, 5, 7, 8]
+    $ chats_in_rooms = [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+    $ randomize = True
+    $ current_room = -1
+    $ intervalo = 0
+    $ chats_i0 = [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    $ chats_i0_rotation = 4
+    $ movement_count = 0
+    $ hours = 9
+    $ minutes = 45
+    $ seconds = 0
+    $ fakeminutes = 45
+    jump entrada_8
+
+label intervalo_1:
+    $ renpy.hide_screen('tasklist')
+    scene intervalo_1
+    with Fade(0.1, 0.0, 2)
+    with Pause(1)
+    scene black_screen
+    with Dissolve(1)
+    with Pause(1)
+    player "{i}Vou ter uma aula agora na sala B às 12:00. Tenho 15 minutos.{/i}"
+
+    $ n_steps = -1
+    $ n_actions = 0
+    $ active_rooms = [0, 1, 2, 4, 5, 6, 7, 8]
+    $ chats_in_rooms = [-1, -1, -1, 99, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+    $ randomize = True
+    $ current_room = -1
+    $ intervalo = 1
+    $ chats_i1 = [0, 1, 2, 3, 4, 5, 6, 7]
+    $ chats_i1_rotation = 5
+    $ movement_count = 0
+    $ hours = 11
+    $ minutes = 45
+    $ seconds = 0
+    $ fakeminutes = 45
+
+    if task1 == 0:
+        $ task1 = -1
+
+    jump sala_4
+
+label intervalo_2:
+    $ renpy.hide_screen('tasklist')
+    scene intervalo_2
+    with Fade(0.1, 0.0, 2)
+    with Pause(1)
+    scene black_screen
+    with Dissolve(1)
+    with Pause(1)
+    player "{i}Demorei uma hora a almoçar. A próxima aula começa às 15:00. Tenho 15 minutos.{/i}"
+
+    $ n_steps = -1
+    $ n_actions = 0
+    $ active_rooms = [0, 2, 3, 4, 5, 6, 7, 8]
+    $ chats_in_rooms = [-1, -1, -1, -1, -1, 99, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+    $ randomize = True
+    $ current_room = -1
+    $ intervalo = 2
+    $ chats_i2 = [0, 1, 2, 3, 4, 5, 6, 7]
+    $ chats_i2_rotation = 4
+    $ movement_count = 0
+    $ hours = 14
+    $ minutes = 45
+    $ seconds = 0
+    $ fakeminutes = 45
+
+    if task3 == 0:
+        $ task3 = -1
+
+    jump sala_6
+
+label intervalo_3:
+    $ renpy.hide_screen('tasklist')
+    scene intervalo_3
+    with Fade(0.1, 0.0, 2)
+    with Pause(1)
+    scene black_screen
+    with Dissolve(1)
+    with Pause(1)
+    player "{i}Por hoje já não há mais aulas, mas ainda tenho a reunião agora às 17h00. Tenho 15 minutos.{/i}"
+
+    $ n_steps = -1
+    $ n_actions = 0
+    $ active_rooms = [0, 1, 2, 3, 5, 8]
+    $ chats_in_rooms = [-1, -1, -1, -1, -1, -1, -1, 99, -1, -1, -1, -1, -1, -1, -1]
+    $ randomize = True
+    $ current_room = -1
+    $ intervalo = 3
+    $ chats_i3 = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    $ chats_i3_rotation = 5
+    $ movement_count = 0
+    $ hours = 16
+    $ minutes = 45
+    $ seconds = 0
+    $ fakeminutes = 45
+    jump sala_6
+
+# rooms
+label time_checker:
+    if movement_count > 59:
+        $ randomize = True
+        $ movement_count = 0
+    if seconds > 59:
+        $ seconds -= 60
+        $ minutes += 1
+    if minutes > 59:
+        $ minutes -= 60
+        $ hours += 1
+    if minutes >= 45:
+        $fakeminutes = minutes
+    else:
+        $fakeminutes = 60
+    if intervalo == 0:
+        if hours > 9:
+            call periodo_aula from _call_periodo_aula
+    if intervalo == 1:
+        if hours > 11:
+            call periodo_aula from _call_periodo_aula_1
+    if intervalo == 2:
+        if hours > 14:
+            call periodo_aula from _call_periodo_aula_2
+    if intervalo == 3:
+        if hours > 16:
+            call ending
+    return
+
+label escadas_0:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker
+    if randomize:
+        call randomizer from _call_randomizer
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 0
+    call screen room_escadas_0
+    return
+label escadas_1:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_1
+    if randomize:
+        call randomizer from _call_randomizer_1
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 1
+    call screen room_escadas_1
+    return
+label escadas_2:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_2
+    if randomize:
+        call randomizer from _call_randomizer_2
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 2
+    call screen room_escadas_2
+    return
+label corredor_3:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_3
+    if randomize:
+        call randomizer from _call_randomizer_3
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 3
+    call screen room_corredor_3
+    return
+label sala_4:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_4
+    if randomize:
+        call randomizer from _call_randomizer_4
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 4
+    call screen room_sala_4
+    return
+label corredor_5:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_5
+    if randomize:
+        call randomizer from _call_randomizer_5
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 5
+    call screen room_corredor_5
+    return
+label sala_6:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_6
+    if randomize:
+        call randomizer from _call_randomizer_6
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 6
+    call screen room_sala_6
+    return
+label escadas_7:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_7
+    if randomize:
+        call randomizer from _call_randomizer_7
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 7
+    call screen room_escadas_7
+    return
+label entrada_8:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_8
+    if randomize:
+        call randomizer from _call_randomizer_8
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 8
+    call screen room_entrada_8
+    return
+label biblioteca_9:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_9
+    if randomize:
+        call randomizer from _call_randomizer_9
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 9
+    call screen room_biblioteca_9
+    return
+label enfermaria_10:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_10
+    if randomize:
+        call randomizer from _call_randomizer_10
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 10
+    call screen room_enfermaria_10
+    return
+label escadas_11:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_11
+    if randomize:
+        call randomizer from _call_randomizer_11
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 11
+    call screen room_escadas_11
+    return
+label dispensa_12:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_12
+    if randomize:
+        call randomizer from _call_randomizer_12
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 12
+    call screen room_dispensa_12
+    return
+label escadas_13:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_13
+    if randomize:
+        call randomizer from _call_randomizer_13
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 13
+    call screen room_escadas_13
+    return
+label escritorio_14:
+    $ renpy.show_screen('tasklist')
+    call time_checker from _call_time_checker_14
+    if randomize:
+        call randomizer from _call_randomizer_14
+    $ n_steps += 1
+    $ last_room = current_room
+    $ current_room = 14
+    call screen room_escritorio_14
+    return
+
+label randomizer:
+    if (intervalo == 0):
+        $ chats_in_rooms = [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+        if n_chats % 2 == 0:
+            $ shuffled_rooms = active_rooms
+            $ renpy.random.shuffle(shuffled_rooms)
+            $ x = chats_i0_rotation
+            while x < len(chats_i0):
+                #player "x [x] shuffled_rooms [shuffled_rooms] chats_in_rooms[chats_in_rooms] chats_i0 [chats_i0]"
+                if chats_i0[x] != -1:
+                    $ ind = shuffled_rooms[x - chats_i0_rotation]
+                    $ chats_in_rooms[ind] = chats_i0[x]
+                $ x += 1
+        else:
+            $ shuffled_rooms = active_rooms
+            $ renpy.random.shuffle(shuffled_rooms)
+            $ x = 0
+            while x < chats_i0_rotation:
+                #player "x [x] shuffled_rooms [shuffled_rooms] chats_in_rooms[chats_in_rooms] chats_i0 [chats_i0]"
+                if chats_i0[x] != -1:
+                    $ ind = shuffled_rooms[x]
+                    $ chats_in_rooms[ind] = chats_i0[x]
+                $ x += 1
+        #player "x [x] shuffled_rooms [shuffled_rooms] chats_in_rooms[chats_in_rooms] chats_i0 [chats_i0]"
+        $ randomize = False
+    if (intervalo == 1):
+        if chats_in_rooms[3] == 99:
+            $ chats_in_rooms = [-1, -1, -1, 99, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+        else:
+            $ chats_in_rooms = [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+        if n_chats % 2 != 0:
+            $ shuffled_rooms = active_rooms
+            $ renpy.random.shuffle(shuffled_rooms)
+            $ x = 0
+            while x < chats_i1_rotation:
+                if chats_i1[x] != -1 :
+                    $ ind = shuffled_rooms[x]
+                    $ chats_in_rooms[ind] = chats_i1[x]
+                $ x += 1
+        else:
+            $ shuffled_rooms = active_rooms
+            $ renpy.random.shuffle(shuffled_rooms)
+            $ x = chats_i1_rotation
+            while x < len(chats_i1):
+                if chats_i1[x] != -1:
+                    $ ind = shuffled_rooms[x - chats_i1_rotation]
+                    $ chats_in_rooms[ind] = chats_i1[x]
+                $ x += 1
+        $ randomize = False
+    if (intervalo == 2):
+        if chats_in_rooms[5] == 99:
+            $ chats_in_rooms = [-1, -1, -1, -1, -1, 99, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+        else:
+            $ chats_in_rooms = [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+        if n_chats % 2 != 0:
+            $ shuffled_rooms = active_rooms
+            $ renpy.random.shuffle(shuffled_rooms)
+            $ x = 0
+            while x < chats_i2_rotation:
+                if chats_i2[x] != -1:
+                    $ ind = shuffled_rooms[x]
+                    $ chats_in_rooms[ind] = chats_i1[x]
+                $ x += 1
+        else:
+            $ shuffled_rooms = active_rooms
+            $ renpy.random.shuffle(shuffled_rooms)
+            $ x = chats_i2_rotation
+            while x < len(chats_i1):
+                if chats_i2[x] != -1:
+                    $ ind = shuffled_rooms[x - chats_i2_rotation]
+                    $ chats_in_rooms[ind] = chats_i2[x]
+                $ x += 1
+        $ randomize = False
+    if (intervalo == 3):
+        if chats_in_rooms[7] == 99:
+            $ chats_in_rooms = [-1, -1, -1, -1, -1, -1, -1, 99, -1, -1, -1, -1, -1, -1, -1]
+        else:
+            $ chats_in_rooms = [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+        if n_chats % 2 != 0:
+            $ shuffled_rooms = active_rooms
+            $ renpy.random.shuffle(shuffled_rooms)
+            $ x = 0
+            while x < chats_i3_rotation:
+                if chats_i3[x] != -1:
+                    $ ind = shuffled_rooms[x]
+                    $ chats_in_rooms[ind] = chats_i3[x]
+                $ x += 1
+        else:
+            $ shuffled_rooms = active_rooms
+            $ renpy.random.shuffle(shuffled_rooms)
+            $ x = chats_i3_rotation
+            while x < len(chats_i3):
+                if chats_i3[x] != -1:
+                    $ ind = shuffled_rooms[x - chats_i3_rotation]
+                    $ chats_in_rooms[ind] = chats_i3[x]
+                $ x += 1
+        $ randomize = False
+    return
+
+# dialogos
+label leave_conversation:
+    scene black_screen
+    with Dissolve(1)
+    with Pause(1)
+    $ movement_count = 59
+    if current_room == 0:
+        jump escadas_0
+    if current_room == 1:
+        jump escadas_1
+    if current_room == 2:
+        jump escadas_2
+    if current_room == 3:
+        jump corredor_3
+    if current_room == 4:
+        jump sala_4
+    if current_room == 5:
+        jump corredor_5
+    if current_room == 6:
+        jump sala_6
+    if current_room == 7:
+        jump escadas_7
+    if current_room == 8:
+        jump entrada_8
+    if current_room == 9:
+        jump biblioteca_9
+    if current_room == 10:
+        jump enfermaria_10
+    if current_room == 11:
+        jump escadas_11
+    if current_room == 12:
+        jump dispensa_12
+    if current_room == 13:
+        jump escadas_13
+    if current_room == 14:
+        jump escritorio_14
+    return
+
+label chat_background:
+    if current_room == 0:
+        scene escadas_0:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 1:
+        scene escadas_1:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 2:
+        scene escadas_2:
+            blur 10
+            xsize 1920
+            ysize 1080
+            blur 10
+    if current_room == 3:
+        scene corredor_3:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 4:
+        scene sala_4:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 5:
+        scene corredor_5:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 6:
+        scene sala_6:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 7:
+        scene escadas_7:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 8:
+        scene entrada_8:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 9:
+        scene biblioteca_9:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 10:
+        scene enfermaria_10:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 11:
+        scene escadas_11:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 12:
+        scene dispensa_12:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 13:
+        scene escadas_13:
+            blur 10
+            xsize 1920
+            ysize 1080
+    if current_room == 14:
+        scene escritorio_14:
+            blur 10
+            xsize 1920
+            ysize 1080
+    return
+
+label chat_exit(chat_duration_m, chat_duration_s):
+    $ n_mins = chat_duration_m
+    $ n_secs = chat_duration_s
+    $ renpy.show_screen('exit_chat')
+    return
+screen exit_chat:
+    imagebutton:
+        xalign 0.99 yalign 0.99
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("minutes", minutes+n_mins), SetVariable("seconds", seconds+n_secs), Jump("leave_conversation")]
+        focus_mask True
+# screens
+screen room_escadas_0:
+    add im.Scale("rooms/"+daytime+"/escadas_0.png", 1920, 1080, bilinear=True)
+    #text "P0 - Escadaria Este" xalign 0.11 yalign 0.0 size 70 color "#000000" outlines [(absolute(1), "#ffffff", absolute(0), absolute(0))]
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+
+    # saida entrada_8
+    imagebutton:
+        xalign 0.5 yalign 0.99
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("entrada_8")]
+        focus_mask True
+    # saida escadas_1
+    imagebutton:
+        xalign 0.99 yalign 0.5 at rot(-90)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+10), SetVariable("seconds", seconds+10), Jump("escadas_1")]
+        focus_mask True
+    # saida escadas_2
+    imagebutton:
+        xalign 0.5 yalign 0.1 at rot(45+90)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_2")]
+        focus_mask True
+    # saida biblioteca_9
+    imagebutton:
+        idle im.Scale("rooms/"+daytime+"/escadas_0_saida_biblioteca_9_idle.png", 1920, 1080, bilinear=True)
+        hover im.Scale("rooms/"+daytime+"/escadas_0_saida_biblioteca_9_hover.png", 1920, 1080, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("biblioteca_9")]
+        focus_mask True
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring != -1:
+        imagebutton:
+            xalign 1.2 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+screen room_escadas_1:
+    add im.Scale("rooms/"+daytime+"/escadas_1.png", 1920, 1080, bilinear=True)
+    #text "Escadaria Oeste" xalign 0.11 yalign 0.0 size 70 color "#000000" outlines [(absolute(1), "#ffffff", absolute(0), absolute(0))]
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+
+    # saida entrada_8
+    imagebutton:
+        xalign 0.5 yalign 0.99
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("entrada_8")]
+        focus_mask True
+    # saida escadas_0
+    imagebutton:
+        xalign 0.01 yalign 0.5 at rot(90)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+10), SetVariable("seconds", seconds+10), Jump("escadas_0")]
+        focus_mask True
+    # saida escadas_7
+    imagebutton:
+        xalign 0.5 yalign 0.1 at rot(-45-90)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_7")]
+        focus_mask True
+    # saida enfermaria_10
+    imagebutton:
+        idle im.Scale("rooms/"+daytime+"/escadas_1_saida_enfermaria_10_idle.png", 1920, 1080, bilinear=True)
+        hover im.Scale("rooms/"+daytime+"/escadas_1_saida_enfermaria_10_hover.png", 1920, 1080, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("enfermaria_10")]
+        focus_mask True
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring != -1:
+        imagebutton:
+            xalign -0.2 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+screen room_escadas_2:
+    add im.Scale("rooms/"+daytime+"/escadas_2.png", 1920, 1080, bilinear=True)
+    #text "Escadaria Este" xalign 0.11 yalign 0.0 size 70 color "#000000" outlines [(absolute(1), "#ffffff", absolute(0), absolute(0))]
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+
+    # saida escadas_0
+    imagebutton:
+        xalign 0.1 yalign 0.7
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_0")]
+        focus_mask True
+    # saida corredor_3
+    imagebutton:
+        xalign 0.99 yalign 0.5 at rot(-90)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("corredor_3")]
+        focus_mask True
+    # saida escadas_11
+    imagebutton:
+        xalign 0.5 yalign 0.1 at rot(45+90)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_11")]
+        focus_mask True
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring == 99:
+        imagebutton:
+            xalign 0.2 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_cb_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_cb_hover.png", 1300, 815, bilinear=True)
+            action [SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_cb")]
+            focus_mask True
+    elif chat_occuring != -1:
+        imagebutton:
+            xalign 0.2 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+screen room_corredor_3:
+    add im.Scale("rooms/"+daytime+"/corredor_3.jpg", 1920, 1080, bilinear=True)
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring == 99:
+        imagebutton:
+            xalign 0.99 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_cb_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_cb_hover.png", 1300, 815, bilinear=True)
+            action [SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_cb")]
+            focus_mask True
+    elif chat_occuring != -1:
+        imagebutton:
+            xalign 0.99 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+    # saida escadas_2
+    imagebutton:
+        xalign 0.01 yalign 0.5 at rot(90)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_2")]
+        focus_mask True
+    # saida sala_4
+    imagebutton:
+        idle im.Scale("rooms/"+daytime+"/corredor_3_saida_sala_4_idle.png", 1920, 1080, bilinear=True)
+        hover im.Scale("rooms/"+daytime+"/corredor_3_saida_sala_4_hover.png", 1920, 1080, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("sala_4")]
+        focus_mask True
+    # saida corredor_5
+    imagebutton:
+        xalign 0.99 yalign 0.5 at rot(-90)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+10), SetVariable("seconds", seconds+10), Jump("corredor_5")]
+        focus_mask True
+
+screen room_sala_4:
+    add im.Scale("rooms/"+daytime+"/sala_4.jpg", 1920, 1080, bilinear=True)
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+
+    # saida corredor_3
+    imagebutton:
+        idle im.Scale("rooms/"+daytime+"/sala_4_saida_corredor_3_idle.png", 1920, 1080, bilinear=True)
+        hover im.Scale("rooms/"+daytime+"/sala_4_saida_corredor_3_hover.png", 1920, 1080, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("corredor_3")]
+        focus_mask True
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring == 99:
+        imagebutton:
+            xalign 0.2 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_cb_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_cb_hover.png", 1300, 815, bilinear=True)
+            action [SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_cb")]
+            focus_mask True
+    elif chat_occuring != -1:
+        imagebutton:
+            xalign 5.0 yalign -5.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1800, 1128, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1800, 1128, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+    # saida corredor_3
+    imagebutton:
+        xalign 0.5 yalign 0.99
+        idle im.Scale("exit_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("exit_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("corredor_3")]
+        focus_mask True
+
+screen room_corredor_5:
+    add im.Scale("rooms/"+daytime+"/corredor_5.jpg", 1920, 1080, bilinear=True)
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring == 99:
+        imagebutton:
+            xalign 0.2 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_cb_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_cb_hover.png", 1300, 815, bilinear=True)
+            action [SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_cb")]
+            focus_mask True
+    elif chat_occuring != -1:
+        imagebutton:
+            xalign 0.01 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+    # saida escadas_7
+    imagebutton:
+        xalign 0.99 yalign 0.5 at rot(-90)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_7")]
+        focus_mask True
+    # saida sala_6
+    imagebutton:
+        idle im.Scale("rooms/"+daytime+"/corredor_5_saida_sala_6_idle.png", 1920, 1080, bilinear=True)
+        hover im.Scale("rooms/"+daytime+"/corredor_5_saida_sala_6_hover.png", 1920, 1080, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("sala_6")]
+        focus_mask True
+    # saida corredor_3
+    imagebutton:
+        xalign 0.01 yalign 0.5 at rot(90)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+10), SetVariable("seconds", seconds+10), Jump("corredor_3")]
+        focus_mask True
+
+screen room_sala_6:
+    add im.Scale("rooms/"+daytime+"/sala_6.jpg", 1920, 1080, bilinear=True)
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring == 99:
+        imagebutton:
+            xalign 0.2 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_cb_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_cb_hover.png", 1300, 815, bilinear=True)
+            action [SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_cb")]
+            focus_mask True
+    elif chat_occuring != -1:
+        imagebutton:
+            xalign 5.0 yalign -2.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 2000, 1154, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 2000, 1154, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+    # saida corredor_5
+    imagebutton:
+        xalign 0.5 yalign 0.99
+        idle im.Scale("exit_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("exit_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("corredor_5")]
+        focus_mask True
+    # saida corredor_5
+    imagebutton:
+        idle im.Scale("rooms/"+daytime+"/sala_6_saida_corredor_5_idle.png", 1920, 1080, bilinear=True)
+        hover im.Scale("rooms/"+daytime+"/sala_6_saida_corredor_5_hover.png", 1920, 1080, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("corredor_5")]
+        focus_mask True
+
+screen room_escadas_7:
+    add im.Scale("rooms/"+daytime+"/escadas_7.png", 1920, 1080, bilinear=True)
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring == 99:
+        imagebutton:
+            xalign 0.8 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_cb_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_cb_hover.png", 1300, 815, bilinear=True)
+            action [SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_cb")]
+            focus_mask True
+    elif chat_occuring != -1:
+        imagebutton:
+            xalign 0.8 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+    # saida escadas_1
+    imagebutton:
+        xalign 0.9 yalign 0.7
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_1")]
+        focus_mask True
+    # saida corredor_5
+    imagebutton:
+        xalign 0.01 yalign 0.5 at rot(90)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("corredor_5")]
+        focus_mask True
+    # saida escadas_13
+    imagebutton:
+        xalign 0.5 yalign 0.1 at rot(-45-90)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_13")]
+        focus_mask True
+
+screen room_entrada_8:
+    add im.Scale("rooms/"+daytime+"/entrada_8.jpg", 1920, 1080, bilinear=True)
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+    #$ strhours = If(hours < 10, "0"+str(hours), str(hours))
+    #$ strminutes = If(minutes < 10, "0"+str(minutes), str(minutes))
+    #$ strseconds = If(seconds < 10, "0"+str(seconds), str(seconds))
+    #text "[strhours]:[strminutes]" xalign 0.012 yalign 0.95 size 35 color If(minutes < 50, "#00dd00", If(minutes < 55, "#eeee00", "#ee0000")) outlines [(absolute(1), "#000000", absolute(0), absolute(0))]
+
+    # saida escadas_0
+    imagebutton:
+        idle im.Scale("rooms/"+daytime+"/entrada_8_saida_escadas_0_idle.png", 1920, 1080, bilinear=True)
+        hover im.Scale("rooms/"+daytime+"/entrada_8_saida_escadas_0_hover.png", 1920, 1080, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_0")]
+        focus_mask True
+    # saida escadas_1
+    imagebutton:
+        idle im.Scale("rooms/"+daytime+"/entrada_8_saida_escadas_1_idle.png", 1920, 1080, bilinear=True)
+        hover im.Scale("rooms/"+daytime+"/entrada_8_saida_escadas_1_hover.png", 1920, 1080, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_1")]
+        focus_mask True
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring != -1:
+        imagebutton:
+            xalign 0.99 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i2, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+screen room_biblioteca_9:
+    add im.Scale("rooms/"+daytime+"/biblioteca_9.jpg", 1920, 1080, bilinear=True)
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+    #$ strhours = If(hours < 10, "0"+str(hours), str(hours))
+    #$ strminutes = If(minutes < 10, "0"+str(minutes), str(minutes))
+    #$ strseconds = If(seconds < 10, "0"+str(seconds), str(seconds))
+    #text "[strhours]:[strminutes]" xalign 0.012 yalign 0.95 size 35 color If(minutes < 50, "#00dd00", If(minutes < 55, "#eeee00", "#ee0000")) outlines [(absolute(1), "#000000", absolute(0), absolute(0))]
+
+    # saida escadas_1
+    imagebutton:
+        xalign 0.5 yalign 0.99
+        idle im.Scale("exit_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("exit_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_0")]
+        focus_mask True
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring != -1:
+        imagebutton:
+            xalign 0.99 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+    if task2 == 0:
+        imagebutton:
+            xalign 0.59 yalign 0.57
+            idle im.Scale("tasks/task2_idle.png", 150, 150, bilinear=True)
+            hover im.Scale("tasks/task2_hover.png", 225, 225, bilinear=True)
+            action [SetVariable("minutes", minutes+5), SetVariable("task2", 1), SetVariable("n_actions", n_actions+1), Jump('tarefa2')]
+            focus_mask True
+
+screen room_enfermaria_10:
+    add im.Scale("rooms/"+daytime+"/enfermaria_10.jpg", 1920, 1080, bilinear=True)
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+    #$ strhours = If(hours < 10, "0"+str(hours), str(hours))
+    #$ strminutes = If(minutes < 10, "0"+str(minutes), str(minutes))
+    #$ strseconds = If(seconds < 10, "0"+str(seconds), str(seconds))
+    #text "[strhours]:[strminutes]" xalign 0.012 yalign 0.95 size 35 color If(minutes < 50, "#00dd00", If(minutes < 55, "#eeee00", "#ee0000")) outlines [(absolute(1), "#000000", absolute(0), absolute(0))]
+
+    # saida escadas_0
+    imagebutton:
+        xalign 0.5 yalign 0.99
+        idle im.Scale("exit_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("exit_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_1")]
+        focus_mask True
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring != -1:
+        imagebutton:
+            xalign 0.99 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+screen room_escadas_11:
+    add im.Scale("rooms/"+daytime+"/escadas_11.png", 1920, 1080, bilinear=True)
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+    #$ strhours = If(hours < 10, "0"+str(hours), str(hours))
+    #$ strminutes = If(minutes < 10, "0"+str(minutes), str(minutes))
+    #$ strseconds = If(seconds < 10, "0"+str(seconds), str(seconds))
+    #text "[strhours]:[strminutes]" xalign 0.012 yalign 0.95 size 35 color If(minutes < 50, "#00dd00", If(minutes < 55, "#eeee00", "#ee0000")) outlines [(absolute(1), "#000000", absolute(0), absolute(0))]
+
+    # saida escadas_2
+    imagebutton:
+        xalign 0.01 yalign 0.99 at rot(45)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_2")]
+        focus_mask True
+    # saida dispensa_12
+    imagebutton:
+        idle im.Scale("rooms/"+daytime+"/escadas_11_saida_dispensa_12_idle.png", 1920, 1080, bilinear=True)
+        hover im.Scale("rooms/"+daytime+"/escadas_11_saida_dispensa_12_hover.png", 1920, 1080, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("dispensa_12")]
+        focus_mask True
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring != -1:
+        imagebutton:
+            xalign 0.99 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+screen room_dispensa_12:
+    add im.Scale("rooms/"+daytime+"/dispensa_12.jpg", 1920, 1080, bilinear=True)
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+    #$ strhours = If(hours < 10, "0"+str(hours), str(hours))
+    #$ strminutes = If(minutes < 10, "0"+str(minutes), str(minutes))
+    #$ strseconds = If(seconds < 10, "0"+str(seconds), str(seconds))
+    #text "[strhours]:[strminutes]" xalign 0.012 yalign 0.95 size 35 color If(minutes < 50, "#00dd00", If(minutes < 55, "#eeee00", "#ee0000")) outlines [(absolute(1), "#000000", absolute(0), absolute(0))]
+
+    # saida escadas_11
+    imagebutton:
+        xalign 0.5 yalign 0.99
+        idle im.Scale("exit_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("exit_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_11")]
+        focus_mask True
+    # saida escadas_11
+    imagebutton:
+        idle im.Scale("rooms/"+daytime+"/dispensa_12_saida_escadas_11_idle.png", 1920, 1080, bilinear=True)
+        hover im.Scale("rooms/"+daytime+"/dispensa_12_saida_escadas_11_hover.png", 1920, 1080, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_11")]
+        focus_mask True
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring != -1:
+        imagebutton:
+            xalign 0.99 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+screen room_escadas_13:
+    add im.Scale("rooms/"+daytime+"/escadas_13.png", 1920, 1080, bilinear=True)
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+    #$ strhours = If(hours < 10, "0"+str(hours), str(hours))
+    #$ strminutes = If(minutes < 10, "0"+str(minutes), str(minutes))
+    #$ strseconds = If(seconds < 10, "0"+str(seconds), str(seconds))
+    #text "[strhours]:[strminutes]" xalign 0.012 yalign 0.95 size 35 color If(minutes < 50, "#00dd00", If(minutes < 55, "#eeee00", "#ee0000")) outlines [(absolute(1), "#000000", absolute(0), absolute(0))]
+
+    # saida escadas_7
+    imagebutton:
+        xalign 0.99 yalign 0.99 at rot(-45)
+        idle im.Scale("arrow_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("arrow_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_7")]
+        focus_mask True
+    # saida escritorio_14
+    imagebutton:
+        idle im.Scale("rooms/"+daytime+"/escadas_13_saida_escritorio_14_idle.png", 1920, 1080, bilinear=True)
+        hover im.Scale("rooms/"+daytime+"/escadas_13_saida_escritorio_14_hover.png", 1920, 1080, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escritorio_14")]
+        focus_mask True
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring != -1:
+        imagebutton:
+            xalign 0.99 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+screen room_escritorio_14:
+    add im.Scale("rooms/"+daytime+"/escritorio_14.jpg", 1920, 1080, bilinear=True)
+
+    # relogio
+    add "tasks/clock"+str(hours)+"_"+str(fakeminutes)+".png" xalign 0.995 yalign 0.01 xsize 150 ysize 150
+    #$ strhours = If(hours < 10, "0"+str(hours), str(hours))
+    #$ strminutes = If(minutes < 10, "0"+str(minutes), str(minutes))
+    #$ strseconds = If(seconds < 10, "0"+str(seconds), str(seconds))
+    #text "[strhours]:[strminutes]" xalign 0.012 yalign 0.95 size 35 color If(minutes < 50, "#00dd00", If(minutes < 55, "#eeee00", "#ee0000")) outlines [(absolute(1), "#000000", absolute(0), absolute(0))]
+
+    # saida escadas_13
+    imagebutton:
+        xalign 0.5 yalign 0.99
+        idle im.Scale("exit_idle.png", 100, 100, bilinear=True)
+        hover im.Scale("exit_hover.png", 100, 100, bilinear=True)
+        action [SetVariable("movement_count", movement_count+7), SetVariable("seconds", seconds+7), Jump("escadas_13")]
+        focus_mask True
+
+    # chats
+    $ chat_occuring = chats_in_rooms[current_room]
+    if chat_occuring != -1:
+        imagebutton:
+            xalign 0.99 yalign 1.0
+            idle im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_idle.png", 1300, 815, bilinear=True)
+            hover im.Scale("chats/chat_i"+str(intervalo)+"_g"+str(chat_occuring)+"_hover.png", 1300, 815, bilinear=True)
+            action [If(intervalo == 0, SetDict(chats_i0, chat_occuring, -1), None),
+             If(intervalo == 1, SetDict(chats_i1, chat_occuring, -1), None),
+             If(intervalo == 2, SetDict(chats_i2, chat_occuring, -1), None),
+             If(intervalo == 3, SetDict(chats_i3, chat_occuring, -1), None),
+             SetDict(chats_in_rooms, current_room, -1), Jump("chat_i"+str(intervalo)+"_g"+str(chat_occuring))]
+            focus_mask True
+
+    # tarefas
+    if task1 == 0:
+        imagebutton:
+            xalign 0.62 yalign 0.88 at rot(-20)
+            idle im.Scale("tasks/task1_idle.png", 100, 100, bilinear=True)
+            hover im.Scale("tasks/task1_hover.png", 150, 150, bilinear=True)
+            action [SetVariable("minutes", minutes+5), SetVariable("task1", 1), SetVariable("n_actions", n_actions+1), Jump('tarefa1')]
+            focus_mask True
+    if (task3 == 0) and (intervalo > 0):
+        imagebutton:
+            xalign 0.5 yalign 0.61 at rot(10)
+            idle im.Scale("tasks/task3_idle.png", 150, 150, bilinear=True)
+            hover im.Scale("tasks/task3_hover.png", 225, 225, bilinear=True)
+            action [SetVariable("minutes", minutes+5), SetVariable("task3", 1), SetVariable("n_actions", n_actions+1), Jump('tarefa3')]
+            focus_mask True
+
+transform rot(rotation):
+    rotate rotation
+
+transform change_transform(old, new):
+    contains:
+        old
+        yalign 1.0
+        xpos 0.0 xanchor 0.0
+        linear 0.2 xanchor 1.0
+    contains:
+        new
+        yalign 1.0
+        xpos 0.0 xanchor 1.0
+        linear 0.2 xanchor 0.0
+
+define config.side_image_change_transform = change_transform
+
+style window:
+    left_padding 0
